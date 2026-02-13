@@ -54421,12 +54421,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-4242409778_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54439,12 +54439,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2875419890_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54475,12 +54475,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1463298717_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54493,12 +54493,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1883710531_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54511,12 +54511,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3791041064_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54529,12 +54529,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3121409188_lower_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54547,12 +54547,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2652789954_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54565,12 +54565,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_lateral_incisor",
         "object_id": "item-2096879482_lower_right_lateral_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54583,12 +54583,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3418016882_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54601,12 +54601,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_lateral_incisor",
         "object_id": "item-1743254006_lower_right_lateral_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54619,12 +54619,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2959965783_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54637,12 +54637,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3418016882_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54655,12 +54655,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1732839733_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54673,12 +54673,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_premolar",
         "object_id": "item-583905076_lower_right_first_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54691,12 +54691,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3041533381_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54709,12 +54709,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2985615198_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54727,12 +54727,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-575578612_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54745,12 +54745,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-299542246_lower_left_deciduous_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54763,12 +54763,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3211293460_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54781,12 +54781,12 @@
         "treatment": "extraction",
         "tooth": "upper_left_lateral_incisor",
         "object_id": "item-1893836492_upper_left_lateral_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54799,12 +54799,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2494684904_lower_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54817,12 +54817,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2859278177_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54835,12 +54835,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_third_molar",
         "object_id": "item-625548693_lower_left_molar_wisdom_tooth_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54853,12 +54853,12 @@
         "treatment": "Extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3419104865_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54871,12 +54871,12 @@
         "treatment": "Extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3419104865_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54889,12 +54889,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_central_incisor",
         "object_id": "item-3934347060_lower_left_central_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54907,12 +54907,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-723841168_lower_left_middle_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54925,12 +54925,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2228335417_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54943,12 +54943,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1574237104_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54966,12 +54966,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-4047437399_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -54984,12 +54984,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_third_molar",
         "object_id": "item-3919465733_lower_right_molar_wisdom_tooth_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55002,12 +55002,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3358476161_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55020,12 +55020,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3418016882_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55038,12 +55038,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-57112304_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55056,12 +55056,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3207562756_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55074,12 +55074,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2354760634_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55110,12 +55110,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2354760634_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55128,12 +55128,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_premolar",
         "object_id": "item-2909934037_lower_right_first_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55146,12 +55146,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_lateral_incisor",
         "object_id": "item-3089459383_lower_left_lateral_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55164,12 +55164,12 @@
         "treatment": "extraction",
         "tooth": "upper_right_central_incisor",
         "object_id": "item-1455084467_upper_middle_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55182,12 +55182,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3358476161_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55200,12 +55200,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3875591053_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55218,12 +55218,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_third_molar",
         "object_id": "item-2741667762_lower_right_third_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55236,12 +55236,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3266392197_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55254,12 +55254,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3021214045_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55272,12 +55272,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-891975958_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55290,12 +55290,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1436879887_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55308,12 +55308,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_third_molar",
         "object_id": "item-3891867421_lower_right_wisdom_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55326,12 +55326,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-4083251988_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55344,12 +55344,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1282515663_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55362,12 +55362,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-632524236_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55380,12 +55380,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2967133036_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55398,12 +55398,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2354760634_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55416,12 +55416,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1176977128_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55434,12 +55434,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3231944042_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55452,12 +55452,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2967133036_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55470,12 +55470,12 @@
         "treatment": "extraction",
         "tooth": "upper_left_central_incisor",
         "object_id": "item-1094800754_upper_left_central_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55488,12 +55488,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1559159886_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55506,12 +55506,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3051832564_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55524,12 +55524,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1403500931_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55542,12 +55542,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2967133036_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55560,12 +55560,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-77404596_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55578,12 +55578,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3464523159_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55596,12 +55596,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1901737605_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55614,12 +55614,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-891975958_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55632,12 +55632,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3384212137_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55650,12 +55650,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2652789954_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55668,12 +55668,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-881390261_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55686,12 +55686,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-4267545667_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55704,12 +55704,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1109342730_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55722,12 +55722,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2859278177_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55740,12 +55740,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3196371637_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55758,12 +55758,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3875591053_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55776,12 +55776,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3875591053_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55794,12 +55794,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3418016882_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55812,12 +55812,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1544315122_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55830,12 +55830,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3418016882_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55848,12 +55848,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3877161257_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55866,12 +55866,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1690316040_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55884,12 +55884,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1067991526_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55902,12 +55902,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1955341923_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55920,12 +55920,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_third_molar",
         "object_id": "item-3475656914_lower_right_third_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55938,12 +55938,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3314893070_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55956,12 +55956,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2691116663_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55974,12 +55974,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_third_molar",
         "object_id": "item-3211413984_lower_left_wisdom_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -55992,12 +55992,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1947603254_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56010,12 +56010,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_central_incisor",
         "object_id": "item-634938607_lower_left_central_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56028,12 +56028,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-2506689487_lower_left_middle_premolar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56046,12 +56046,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-3542096301_lower_left_middle_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56064,12 +56064,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-3756815633_lower_left_middle_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56082,12 +56082,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2079728775_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56100,12 +56100,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2967133036_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56118,12 +56118,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-4024188275_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56136,12 +56136,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-239945031_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56154,12 +56154,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-3443856048_lower_left_middle_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56172,12 +56172,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1496798170_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56190,12 +56190,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2967133036_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56208,12 +56208,12 @@
         "treatment": "extraction",
         "tooth": "upper_right_first_premolar",
         "object_id": "item-1367913497_upper_right_middle_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56226,12 +56226,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_third_molar",
         "object_id": "item-1002490294_lower_right_wisdom_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56244,12 +56244,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_molar",
         "object_id": "item-2191039251_upper_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56262,12 +56262,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1006360953_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56280,12 +56280,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-2749020886_lower_left_bicuspid_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56298,12 +56298,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2798811253_lower_left_first_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56316,12 +56316,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2347456211_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56334,12 +56334,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2802805519_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56352,12 +56352,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3826239839_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56370,12 +56370,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_molar",
         "object_id": "item-1624917041_upper_right_lateral_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56388,12 +56388,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_canine",
         "object_id": "item-1075685914_upper_right_canine_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56406,12 +56406,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2347456211_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56424,12 +56424,12 @@
         "treatment": "RCT",
         "tooth": "upper_left_lateral_incisor",
         "object_id": "item-788228356_upper_left_lateral_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56442,12 +56442,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1796897879_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56460,12 +56460,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_premolar",
         "object_id": "item-746203826_upper_right_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56478,12 +56478,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-62865960_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56496,12 +56496,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-954129782_lower_left_middle_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56514,12 +56514,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1148580880_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56532,12 +56532,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-788547694_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56550,12 +56550,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2028252956_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56568,12 +56568,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3955983731_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56586,12 +56586,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3978757762_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56604,12 +56604,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_molar",
         "object_id": "item-3135484039_upper_right_lateral_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56622,12 +56622,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_lateral_incisor",
         "object_id": "item-474010434_upper_middle_lateral_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56640,12 +56640,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_lateral_incisor",
         "object_id": "item-960311558_upper_right_lateral_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56658,12 +56658,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1292271282_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56676,12 +56676,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3478896133_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56694,12 +56694,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2696201198_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56712,12 +56712,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-343477913_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56730,12 +56730,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1357324960_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56748,12 +56748,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1867004357_lower_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56766,12 +56766,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_molar",
         "object_id": "item-136164342_upper_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56784,12 +56784,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_premolar",
         "object_id": "item-2740755317_upper_right_middle_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56802,12 +56802,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-46002381_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56820,12 +56820,12 @@
         "treatment": "RCT",
         "tooth": "upper_left_central_incisor",
         "object_id": "item-2961563727_upper_left_central_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56838,12 +56838,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_central_incisor",
         "object_id": "item-1446796028_lower_left_central_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56856,12 +56856,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3221671320_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56874,12 +56874,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_central_incisor",
         "object_id": "item-2374407962_upper_middle_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56892,12 +56892,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_premolar",
         "object_id": "item-1333667307_upper_right_middle_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56910,12 +56910,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2091408791_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56928,12 +56928,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2771543785_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56946,12 +56946,12 @@
         "treatment": "RCT and extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2570175133_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56964,12 +56964,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_central_incisor",
         "object_id": "item-2380980146_upper_middle_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -56982,12 +56982,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2301543114_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57000,12 +57000,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3956135385_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57018,12 +57018,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1148580880_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57036,12 +57036,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-28044640_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57054,12 +57054,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3927297093_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57072,12 +57072,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_molar",
         "object_id": "item-2024061540_upper_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57090,12 +57090,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1368784030_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57108,12 +57108,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_premolar",
         "object_id": "item-1971635188_lower_right_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57126,12 +57126,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2555602418_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57144,12 +57144,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_canine",
         "object_id": "item-2858113199_upper_right_canine_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57162,12 +57162,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2193067698_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57180,12 +57180,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_molar",
         "object_id": "item-2338483889_upper_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57198,12 +57198,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_central_incisor",
         "object_id": "item-1359075698_upper_middle_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57216,12 +57216,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2365233898_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57234,12 +57234,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_molar",
         "object_id": "item-3203332169_upper_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57252,12 +57252,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_central_incisor",
         "object_id": "item-161526073_upper_right_middle_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57270,12 +57270,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1663702659_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57288,12 +57288,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3375055645_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57306,12 +57306,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1202539115_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57324,12 +57324,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_central_incisor",
         "object_id": "item-49985170_upper_right_middle_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57342,12 +57342,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-348535953_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57360,12 +57360,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1519635653_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57378,12 +57378,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-4106178846_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57396,12 +57396,12 @@
         "treatment": "extraction, restoration, RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-668949669_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57414,12 +57414,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1046184616_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57432,12 +57432,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-403696757_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57450,12 +57450,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-328748281_lower_left_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57468,12 +57468,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-666385951_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57486,12 +57486,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_premolar",
         "object_id": "item-3552469765_upper_right_middle_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57504,12 +57504,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_molar",
         "object_id": "item-3533584404_upper_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57522,12 +57522,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-3335026579_lower_left_middle_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57540,12 +57540,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3303551234_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57558,12 +57558,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-777191561_lower_left_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57576,12 +57576,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-777191561_lower_left_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57594,12 +57594,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-4238613534_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57612,12 +57612,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3650309712_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57630,12 +57630,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_premolar",
         "object_id": "item-1759536716_upper_right_middle_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57648,12 +57648,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1359281382_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57666,12 +57666,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-926661465_lower_left_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57684,12 +57684,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-501212899_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57702,12 +57702,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-749118959_lower_left_first_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57720,12 +57720,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_molar",
         "object_id": "item-1110108078_upper_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57738,12 +57738,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2074780820_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57756,12 +57756,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-83097615_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57774,12 +57774,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3525793484_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57792,12 +57792,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-4155996986_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57810,12 +57810,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1767918995_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57828,12 +57828,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3907891542_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57846,12 +57846,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1900252806_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57864,12 +57864,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3388524982_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57882,12 +57882,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1125240257_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57900,12 +57900,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-4017613200_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57918,12 +57918,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_canine",
         "object_id": "item-2650679060_upper_right_middle_canine_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57936,12 +57936,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-4165129975_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57954,12 +57954,12 @@
         "treatment": "restoration, RCT",
         "tooth": "upper_right_central_incisor",
         "object_id": "item-2115637397_upper_middle_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57972,12 +57972,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1125631704_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -57990,12 +57990,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3302143357_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58008,12 +58008,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3924197389_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58026,12 +58026,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_canine",
         "object_id": "item-2647526957_lower_left_canine_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58044,12 +58044,12 @@
         "treatment": "RCT",
         "tooth": "upper_right_first_molar",
         "object_id": "item-669901083_upper_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58062,12 +58062,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1027194544_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58080,12 +58080,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3286119051_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58098,12 +58098,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3531674325_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58116,12 +58116,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1055976766_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58134,12 +58134,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2811757915_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58152,12 +58152,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-4165129975_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58170,12 +58170,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2542594759_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58188,12 +58188,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-153803155_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58206,12 +58206,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3125289973_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58224,12 +58224,12 @@
         "treatment": "restoration",
         "tooth": "upper_left_central_incisor",
         "object_id": "item-3149535928_upper_left_central_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58242,12 +58242,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-3264863452_lower_left_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58260,12 +58260,12 @@
         "treatment": "restoration",
         "tooth": "upper_right_central_incisor",
         "object_id": "item-3997768302_upper_right_central_deciduous_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58278,12 +58278,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-166704770_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58296,12 +58296,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2253570051_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58314,12 +58314,12 @@
         "treatment": "restoration for left molar; extraction or RCT for right molar based on pulp involvement",
         "tooth": "lower_right_first_molar",
         "object_id": "item-4089090853_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58332,12 +58332,12 @@
         "treatment": "restoration for left molar, extraction for right molar due to pulp involvement",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3274562837_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58350,12 +58350,12 @@
         "treatment": "restoration for left molar; extraction or RCT for right molar based on pulp involvement",
         "tooth": "lower_right_first_molar",
         "object_id": "item-4089090853_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58368,12 +58368,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2253570051_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58386,12 +58386,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3439367080_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58404,12 +58404,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58422,12 +58422,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_lateral_incisor",
         "object_id": "item-2423172111_lower_left_lateral_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58440,12 +58440,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58458,12 +58458,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-661081701_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58476,12 +58476,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-236795658_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58494,12 +58494,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3721322817_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58512,12 +58512,12 @@
         "treatment": "restoration",
         "tooth": "upper_right_first_premolar",
         "object_id": "item-1136753887_upper_right_center_premolar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58530,12 +58530,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3648092363_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58548,12 +58548,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-4119276518_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58566,12 +58566,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58584,12 +58584,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58602,12 +58602,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-4119276518_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58620,12 +58620,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-1817441384_lower_left_center_premolar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58638,12 +58638,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2237167967_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58656,12 +58656,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1248503967_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58674,12 +58674,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1141941359_lower_left_deciduous_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58692,12 +58692,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-82346692_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58710,12 +58710,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1931291682_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58728,12 +58728,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1981078178_lower_center_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58746,12 +58746,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1304803388_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58764,12 +58764,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-4000020900_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58782,12 +58782,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1989925884_lower_center_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58800,12 +58800,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3864133198_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58818,12 +58818,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-3157629809_lower_left_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58836,12 +58836,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2641084998_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58854,12 +58854,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58872,12 +58872,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58890,12 +58890,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3708847082_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58908,12 +58908,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-44795203_lower_center_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58926,12 +58926,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3726775969_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58944,12 +58944,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1989925884_lower_center_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58962,12 +58962,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-66985407_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58980,12 +58980,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1057282819_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -58998,12 +58998,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-165378365_lower_center_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59016,12 +59016,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2507846445_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59034,12 +59034,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2090468233_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59052,12 +59052,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1989925884_lower_center_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59070,12 +59070,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3982400762_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59088,12 +59088,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3559574147_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59106,12 +59106,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-445525732_lower_right_central_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59124,12 +59124,12 @@
         "treatment": "restoration",
         "tooth": "upper_left_lateral_incisor",
         "object_id": "item-3877963339_upper_left_lateral_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59142,12 +59142,12 @@
         "treatment": "restoration",
         "tooth": "upper_right_first_molar",
         "object_id": "item-2789166152_upper_right_central_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59160,12 +59160,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2262702029_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59178,12 +59178,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-1817441384_lower_left_center_premolar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59196,12 +59196,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-1817441384_lower_left_center_premolar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59214,12 +59214,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_central_incisor",
         "object_id": "item-3207447995_lower_left_central_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59232,12 +59232,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-258747398_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59250,12 +59250,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2355110477_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59268,12 +59268,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3881406919_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59286,12 +59286,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3299855730_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59304,12 +59304,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-942169588_lower_center_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59322,12 +59322,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2780846943_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59340,12 +59340,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-236795658_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59358,12 +59358,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3864133198_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59376,12 +59376,12 @@
         "treatment": "restoration",
         "tooth": "upper_right_central_incisor",
         "object_id": "item-2218765984_upper_right_central_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59394,12 +59394,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-950723000_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59412,12 +59412,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2372713693_lower_center_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59430,12 +59430,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-3523348334_lower_center_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59448,12 +59448,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-4055298431_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59466,12 +59466,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59484,12 +59484,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2594116951_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59502,12 +59502,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-236795658_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59520,12 +59520,12 @@
         "treatment": "restoration, extraction",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-1987480864_lower_left_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59538,12 +59538,12 @@
         "treatment": "restoration",
         "tooth": "upper_right_canine",
         "object_id": "item-177857065_upper_right_canine_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59556,12 +59556,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-612309151_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59574,12 +59574,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59592,12 +59592,12 @@
         "treatment": "restoration",
         "tooth": "upper_right_first_premolar",
         "object_id": "item-2890580079_upper_right_middle_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59610,12 +59610,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-1391169501_lower_left_bicuspid_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59628,12 +59628,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-236795658_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59646,12 +59646,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3881406919_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59664,12 +59664,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-236795658_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59682,12 +59682,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-656883284_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59700,12 +59700,12 @@
         "treatment": "restoration",
         "tooth": "upper_right_central_incisor",
         "object_id": "item-2218765984_upper_right_central_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59718,12 +59718,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-942169588_lower_center_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59736,12 +59736,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-707545099_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59754,12 +59754,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2207138931_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59772,12 +59772,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1114486162_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59790,12 +59790,12 @@
         "treatment": "restoration",
         "tooth": "upper_right_canine",
         "object_id": "item-275745144_upper_right_canine_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59808,12 +59808,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-942169588_lower_center_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59826,12 +59826,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59844,12 +59844,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_molar",
         "object_id": "item-889667424_lower_center_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59862,12 +59862,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_premolar",
         "object_id": "item-483412593_lower_right_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59880,12 +59880,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-4281939343_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59898,12 +59898,12 @@
         "treatment": "Restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3302989610_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59916,12 +59916,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3061181873_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59934,12 +59934,12 @@
         "treatment": "restoration",
         "tooth": "upper_left_central_incisor",
         "object_id": "item-2861865945_upper_left_central_incisor_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59952,12 +59952,12 @@
         "treatment": "restoration",
         "tooth": "upper_right_first_premolar",
         "object_id": "item-1542265117_upper_right_center_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59970,12 +59970,12 @@
         "treatment": "restoration",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-4159320030_lower_left_pre_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -59988,12 +59988,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-454445745_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -60006,12 +60006,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-3804912095_lower_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -60024,12 +60024,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2967133036_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -60042,12 +60042,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_third_molar",
         "object_id": "item-2629140919_lower_left_wisdom_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -60060,12 +60060,12 @@
         "treatment": "extraction",
         "tooth": "lower_left_first_molar",
         "object_id": "item-2691088939_lower_left_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -60078,12 +60078,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_premolar",
         "object_id": "item-2749020886_lower_left_bicuspid_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -60096,12 +60096,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-42164156_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -60114,12 +60114,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1799285692_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -60132,12 +60132,12 @@
         "treatment": "RCT",
         "tooth": "lower_left_first_molar",
         "object_id": "item-1406806845_lower_left_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -60150,12 +60150,12 @@
         "treatment": "RCT",
         "tooth": "lower_right_first_molar",
         "object_id": "item-1345250018_lower_right_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   },
@@ -60168,12 +60168,12 @@
         "treatment": "restoration",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2979081081_lower_right_middle_molar_individual",
-        "wd": 128,
-        "ht": 128,
-        "x1": 512,
+        "wd": 256,
+        "ht": 512,
+        "x1": 384,
         "x2": 640,
-        "y1": 512,
-        "y2": 640
+        "y1": 256,
+        "y2": 768
       }
     ]
   }
