@@ -285,6 +285,12 @@ canvas {
   background: #d32f2f;
 }
 
+.no-selection-text {
+  font-size: 0.85rem;
+  color: #888;
+  line-height: 1.5;
+}
+
 .loading {
   display: flex;
   justify-content: center;

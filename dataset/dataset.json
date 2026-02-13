@@ -54397,7 +54397,20 @@
   {
     "id": 186,
     "file": "extraction_img1.jpg",
-    "objects": []
+    "objects": [
+      {
+        "object_id": "item-1770982356622_unknown_0",
+        "x1": 473,
+        "y1": 128,
+        "x2": 941,
+        "y2": 557,
+        "wd": 468,
+        "ht": 428,
+        "tooth": "lower_left_third_molar",
+        "treatment": "extraction",
+        "diagnosis": "Impacted wisdom tooth with associated periapical changes"
+      }
+    ]
   },
   {
     "id": 187,
@@ -54406,7 +54419,7 @@
       {
         "diagnosis": "Grossly decayed root canal treated right molar with fractured crown structure",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-4242409778_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54424,7 +54437,7 @@
       {
         "diagnosis": "Grossly decayed right molar with extensive caries involving the pulp chamber and root canals, leading to irreversible pulpitis and periapical pathology",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2875419890_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54460,7 +54473,7 @@
       {
         "diagnosis": "Grossly decayed left molar with extensive caries involving the pulp and root canal system, leading to irreversible pulpitis and periapical pathology",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1463298717_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54478,7 +54491,7 @@
       {
         "diagnosis": "Grossly decayed and fractured middle molar with previous root canal treatment, necessitating extraction due to extensive damage and lack of restorability",
         "treatment": "extraction",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1883710531_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54496,7 +54509,7 @@
       {
         "diagnosis": "Impacted wisdom molar with radiographic evidence of partial eruption and potential complications such as pericoronitis or cyst formation",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3791041064_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54514,7 +54527,7 @@
       {
         "diagnosis": "Gross decay and fracture involving the middle and right molar, both of which have undergone root canal treatment. The middle molar is missing and requires extraction.",
         "treatment": "extraction",
-        "tooth": "lower_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3121409188_lower_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54532,7 +54545,7 @@
       {
         "diagnosis": "Grossly decayed wisdom molar with extensive caries and likely irreversible pulpitis, necessitating extraction",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2652789954_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54568,7 +54581,7 @@
       {
         "diagnosis": "Impacted wisdom tooth, partially erupted, with potential for infection and complications",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3418016882_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54604,7 +54617,7 @@
       {
         "diagnosis": "Root stumps of middle tooth and impacted wisdom molar",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2959965783_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54622,7 +54635,7 @@
       {
         "diagnosis": "Impacted wisdom tooth, partially erupted, with potential for infection and complications",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3418016882_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54640,7 +54653,7 @@
       {
         "diagnosis": "Retained deciduous tooth with resorbed roots",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1732839733_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54658,7 +54671,7 @@
       {
         "diagnosis": "Grossly decayed right premolar with fractured tooth structure",
         "treatment": "extraction",
-        "tooth": "lower_right_first_pre_molar",
+        "tooth": "lower_right_first_premolar",
         "object_id": "item-583905076_lower_right_first_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54676,7 +54689,7 @@
       {
         "diagnosis": "Grossly decayed right molar with remaining root stumps indicating non-vital tooth requiring extraction",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3041533381_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54694,7 +54707,7 @@
       {
         "diagnosis": "Deep proximal cavity touching pulp on left molar, indicating pulp involvement and requiring extraction",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-2985615198_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54712,7 +54725,7 @@
       {
         "diagnosis": "Grossly decayed right wisdom molar with extensive caries and likely irreversible pulpitis, necessitating extraction",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-575578612_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54730,7 +54743,7 @@
       {
         "diagnosis": "Grossly decayed deciduous molar with resorbed roots and underlying permanent tooth",
         "treatment": "extraction",
-        "tooth": "lower_left_deciduous_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-299542246_lower_left_deciduous_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54748,7 +54761,7 @@
       {
         "diagnosis": "Deep cavity touching pulp on partially erupted right wisdom molar, indicating pulp involvement and potential necrosis",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3211293460_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54784,7 +54797,7 @@
       {
         "diagnosis": "Retained deciduous tooth in the middle with resorbed roots and underlying permanent tooth",
         "treatment": "extraction",
-        "tooth": "lower_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2494684904_lower_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54802,7 +54815,7 @@
       {
         "diagnosis": "Retained deciduous tooth on the right with resorbed roots",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2859278177_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54820,7 +54833,7 @@
       {
         "diagnosis": "Grossly decayed left molar wisdom tooth with extensive caries and likely irreversible pulpitis, necessitating extraction",
         "treatment": "extraction",
-        "tooth": "lower_left_molar_wisdom_tooth",
+        "tooth": "lower_left_third_molar",
         "object_id": "item-625548693_lower_left_molar_wisdom_tooth_individual",
         "wd": 0,
         "ht": 0,
@@ -54838,7 +54851,7 @@
       {
         "diagnosis": "Grossly decayed root canal treated middle molar with total loss of tooth structure, root stumps remaining. Deep proximal cavity on left molar close to pulp.",
         "treatment": "Extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3419104865_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54856,7 +54869,7 @@
       {
         "diagnosis": "Grossly decayed root canal treated middle molar with total loss of tooth structure, root stumps remaining. Deep proximal cavity on left molar close to pulp.",
         "treatment": "Extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3419104865_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54892,7 +54905,7 @@
       {
         "diagnosis": "Root stump of middle premolar",
         "treatment": "extraction",
-        "tooth": "lower_left_middle_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-723841168_lower_left_middle_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54910,7 +54923,7 @@
       {
         "diagnosis": "Grossly decayed right molar with significant loss of tooth structure, necessitating extraction due to extensive caries and structural compromise",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2228335417_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54928,7 +54941,7 @@
       {
         "diagnosis": "Root stump of right lower wisdom molar with periapical changes indicating infection or inflammation",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1574237104_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54951,7 +54964,7 @@
       {
         "diagnosis": "Fractured middle molar with a fracture line extending into the middle root area, indicating non-vital pulp and compromised structural integrity",
         "treatment": "extraction",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-4047437399_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -54969,7 +54982,7 @@
       {
         "diagnosis": "Grossly decayed right molar wisdom tooth with significant loss of tooth structure",
         "treatment": "extraction",
-        "tooth": "lower_right_molar_wisdom_tooth",
+        "tooth": "lower_right_third_molar",
         "object_id": "item-3919465733_lower_right_molar_wisdom_tooth_individual",
         "wd": 0,
         "ht": 0,
@@ -54987,7 +55000,7 @@
       {
         "diagnosis": "Impacted wisdom tooth with potential for pericoronitis and cyst formation",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3358476161_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55005,7 +55018,7 @@
       {
         "diagnosis": "Impacted wisdom tooth, partially erupted, with potential for infection and complications",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3418016882_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55023,7 +55036,7 @@
       {
         "diagnosis": "Retained deciduous tooth on the right with resorbed roots; underlying permanent tooth is present and requires extraction",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-57112304_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55041,7 +55054,7 @@
       {
         "diagnosis": "Grossly decayed root canal treated right molar with deep proximal cavity on middle molar. The middle molar cavity is asymptomatic and requires restoration, while the right molar requires extraction due to extensive decay.",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3207562756_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55059,7 +55072,7 @@
       {
         "diagnosis": "Impacted wisdom molar, partially erupted, with potential for pericoronitis and caries",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2354760634_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55095,7 +55108,7 @@
       {
         "diagnosis": "Impacted wisdom molar, partially erupted, with potential for pericoronitis and caries",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2354760634_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55113,7 +55126,7 @@
       {
         "diagnosis": "Large periapical lesion involving the right premolar with significant bone loss extending to the middle third of the root, indicating endodontic failure and potential for further complications",
         "treatment": "extraction",
-        "tooth": "lower_right_first_pre_molar",
+        "tooth": "lower_right_first_premolar",
         "object_id": "item-2909934037_lower_right_first_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55149,7 +55162,7 @@
       {
         "diagnosis": "Grossly decayed middle incisor with periapical lesion",
         "treatment": "extraction",
-        "tooth": "upper_middle_incisor",
+        "tooth": "upper_right_central_incisor",
         "object_id": "item-1455084467_upper_middle_incisor_individual",
         "wd": 0,
         "ht": 0,
@@ -55167,7 +55180,7 @@
       {
         "diagnosis": "Impacted wisdom tooth with potential for pericoronitis and cyst formation",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3358476161_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55185,7 +55198,7 @@
       {
         "diagnosis": "Grossly decayed wisdom tooth with extensive caries and likely irreversible pulpitis, necessitating extraction",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3875591053_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55221,7 +55234,7 @@
       {
         "diagnosis": "Deep cavity in the wisdom tooth with extensive decay involving the pulp, necessitating extraction",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3266392197_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55239,7 +55252,7 @@
       {
         "diagnosis": "Retained deciduous tooth with resorbed roots, no underlying permanent tooth",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3021214045_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55257,7 +55270,7 @@
       {
         "diagnosis": "Grossly decayed middle molar with significant loss of tooth structure, necessitating extraction due to extensive caries and structural compromise",
         "treatment": "extraction",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-891975958_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55275,7 +55288,7 @@
       {
         "diagnosis": "Grossly decayed middle molar with significant loss of tooth structure and root stumps present",
         "treatment": "extraction",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1436879887_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55293,7 +55306,7 @@
       {
         "diagnosis": "Deep proximal decay on wisdom molar involving the pulp, necessitating extraction due to risk of infection and non-restorable condition",
         "treatment": "extraction",
-        "tooth": "lower_right_wisdom_molar",
+        "tooth": "lower_right_third_molar",
         "object_id": "item-3891867421_lower_right_wisdom_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55311,7 +55324,7 @@
       {
         "diagnosis": "Faulty root canal on middle molar with obturation not extending to the root apex, large periapical lesion involving the furcation area",
         "treatment": "extraction",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-4083251988_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55329,7 +55342,7 @@
       {
         "diagnosis": "Root stumps present in the middle molar and left molar, indicating non-vital teeth with no remaining viable pulp tissue, necessitating extraction",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1282515663_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55347,7 +55360,7 @@
       {
         "diagnosis": "Root stump in the middle molar",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-632524236_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55365,7 +55378,7 @@
       {
         "diagnosis": "Impacted wisdom molar with potential for pericoronitis and cyst formation",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2967133036_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55383,7 +55396,7 @@
       {
         "diagnosis": "Impacted wisdom molar, partially erupted, with potential for pericoronitis and caries",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2354760634_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55401,7 +55414,7 @@
       {
         "diagnosis": "Deep cavity in the wisdom molar involving the pulp, leading to irreversible pulpitis and risk of abscess formation",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1176977128_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55419,7 +55432,7 @@
       {
         "diagnosis": "Bone loss observed up to the middle third of the left molar with a periapical lesion extending to the furcation area, indicating advanced periodontal disease and endodontic involvement",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3231944042_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55437,7 +55450,7 @@
       {
         "diagnosis": "Impacted wisdom molar with potential for pericoronitis and cyst formation",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2967133036_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55473,7 +55486,7 @@
       {
         "diagnosis": "Large periapical lesion associated with wisdom molar",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1559159886_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55491,7 +55504,7 @@
       {
         "diagnosis": "Large and deep cavity on the wisdom molar involving the pulp, leading to irreversible pulpitis and risk of abscess formation",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3051832564_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55509,7 +55522,7 @@
       {
         "diagnosis": "Grossly decayed right premolar with associated periapical lesion and grossly decayed left molar requiring extraction",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1403500931_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55527,7 +55540,7 @@
       {
         "diagnosis": "Impacted wisdom molar with potential for pericoronitis and cyst formation",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2967133036_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55545,7 +55558,7 @@
       {
         "diagnosis": "Vertical fracture of the root can treated middle molar",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-77404596_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55563,7 +55576,7 @@
       {
         "diagnosis": "Proximal cavity on middle molar with bone loss extending to the middle third of the root on the distal side",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3464523159_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55581,7 +55594,7 @@
       {
         "diagnosis": "Deep cavity involving pulp of left molar, necessitating endodontic treatment and subsequent extraction due to irreversible pulpitis and risk of abscess formation",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1901737605_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55599,7 +55612,7 @@
       {
         "diagnosis": "Grossly decayed middle molar with significant loss of tooth structure, necessitating extraction due to extensive caries and structural compromise",
         "treatment": "extraction",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-891975958_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55617,7 +55630,7 @@
       {
         "diagnosis": "Root stump of middle molar and impacted wisdom tooth with partial eruption",
         "treatment": "extraction",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3384212137_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55635,7 +55648,7 @@
       {
         "diagnosis": "Grossly decayed wisdom molar with extensive caries and likely irreversible pulpitis, necessitating extraction",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2652789954_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55653,7 +55666,7 @@
       {
         "diagnosis": "Root stumps of the right molar indicating incomplete extraction and potential infection or inflammation",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-881390261_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55671,7 +55684,7 @@
       {
         "diagnosis": "Grossly decayed right molar with remaining root stumps and a proximal cavity in the left premolar",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-4267545667_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55689,7 +55702,7 @@
       {
         "diagnosis": "Retained deciduous tooth on the left with resorbed roots",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1109342730_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55707,7 +55720,7 @@
       {
         "diagnosis": "Retained deciduous tooth on the right with resorbed roots",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2859278177_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55725,7 +55738,7 @@
       {
         "diagnosis": "Grossly decayed middle molar with remaining root stumps",
         "treatment": "extraction",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3196371637_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55743,7 +55756,7 @@
       {
         "diagnosis": "Grossly decayed wisdom tooth with extensive caries and likely irreversible pulpitis, necessitating extraction",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3875591053_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55761,7 +55774,7 @@
       {
         "diagnosis": "Grossly decayed wisdom tooth with extensive caries and likely irreversible pulpitis, necessitating extraction",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3875591053_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55779,7 +55792,7 @@
       {
         "diagnosis": "Impacted wisdom tooth, partially erupted, with potential for infection and complications",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3418016882_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55797,7 +55810,7 @@
       {
         "diagnosis": "Retained deciduous tooth",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1544315122_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55815,7 +55828,7 @@
       {
         "diagnosis": "Impacted wisdom tooth, partially erupted, with potential for infection and complications",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3418016882_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55833,7 +55846,7 @@
       {
         "diagnosis": "Grossly decayed wisdom tooth with extensive caries and likely pulpal necrosis",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3877161257_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55851,7 +55864,7 @@
       {
         "diagnosis": "Grossly decayed deciduous tooth with a deep proximal cavity requiring extraction",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1690316040_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55869,7 +55882,7 @@
       {
         "diagnosis": "Grossly decayed left molar with remaining root stump, associated periapical changes, and significant loss of tooth structure",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1067991526_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55887,7 +55900,7 @@
       {
         "diagnosis": "Deep proximal cavity on middle molar touching nerve requiring root canal treatment and crown, impacted wisdom molar with deep cavity",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1955341923_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55923,7 +55936,7 @@
       {
         "diagnosis": "Root stump of the middle molar indicating non-vital tooth with radiolucency suggesting possible infection or resorption",
         "treatment": "extraction",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3314893070_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55941,7 +55954,7 @@
       {
         "diagnosis": "Retained deciduous tooth with resorbed roots and underlying permanent tooth",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-2691116663_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55959,7 +55972,7 @@
       {
         "diagnosis": "Deep cavity in the left wisdom molar involving the pulp and requiring extraction due to extensive decay and risk of infection",
         "treatment": "extraction",
-        "tooth": "lower_left_wisdom_molar",
+        "tooth": "lower_left_third_molar",
         "object_id": "item-3211413984_lower_left_wisdom_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -55977,7 +55990,7 @@
       {
         "diagnosis": "Deep cavity involving the pulp chamber with radiolucency indicating necrotic pulp and irreversible pulpitis",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1947603254_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56013,7 +56026,7 @@
       {
         "diagnosis": "Root stump of middle premolar with no remaining viable tooth structure",
         "treatment": "extraction",
-        "tooth": "lower_left_middle_premolar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-2506689487_lower_left_middle_premolar_individual",
         "wd": 0,
         "ht": 0,
@@ -56031,7 +56044,7 @@
       {
         "diagnosis": "Root stump of middle premolar with associated large periapical lesion",
         "treatment": "extraction",
-        "tooth": "lower_left_middle_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-3542096301_lower_left_middle_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56049,7 +56062,7 @@
       {
         "diagnosis": "Fractured tooth structure underneath crown of middle premolar, associated periapical lesion",
         "treatment": "extraction",
-        "tooth": "lower_left_middle_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-3756815633_lower_left_middle_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56067,7 +56080,7 @@
       {
         "diagnosis": "Large periapical lesion on the middle molar with significant bone loss indicating endodontic failure and potential infection",
         "treatment": "extraction",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2079728775_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56085,7 +56098,7 @@
       {
         "diagnosis": "Impacted wisdom molar with potential for pericoronitis and cyst formation",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2967133036_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56103,7 +56116,7 @@
       {
         "diagnosis": "Retained deciduous teeth with resorbed roots and underlying permanent teeth",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-4024188275_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56121,7 +56134,7 @@
       {
         "diagnosis": "Large periapical lesion on the middle molar extending to the furcation region",
         "treatment": "extraction",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-239945031_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56139,7 +56152,7 @@
       {
         "diagnosis": "Large cavity in the centre of the middle premolar with associated periapical lesion",
         "treatment": "extraction",
-        "tooth": "lower_left_middle_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-3443856048_lower_left_middle_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56157,7 +56170,7 @@
       {
         "diagnosis": "Grossly decayed middle molar with significant loss of tooth structure and a proximal cavity on the right molar. Restoration is possible if asymptomatic, but extraction is required.",
         "treatment": "extraction",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1496798170_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56175,7 +56188,7 @@
       {
         "diagnosis": "Impacted wisdom molar with potential for pericoronitis and cyst formation",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2967133036_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56193,7 +56206,7 @@
       {
         "diagnosis": "Vertical fracture in the centre of the middle premolar",
         "treatment": "extraction",
-        "tooth": "upper_right_middle_pre_molar",
+        "tooth": "upper_right_first_premolar",
         "object_id": "item-1367913497_upper_right_middle_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56211,7 +56224,7 @@
       {
         "diagnosis": "Deep cavity on the disto-occlusal surface of the lower right wisdom molar, extending into the pulp chamber and causing irreversible pulpitis",
         "treatment": "extraction",
-        "tooth": "lower_right_wisdom_molar",
+        "tooth": "lower_right_third_molar",
         "object_id": "item-1002490294_lower_right_wisdom_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56229,7 +56242,7 @@
       {
         "diagnosis": "Deep cavity extending to root with involvement of pulp, requiring root canal treatment (RCT). Another molar with deep cavity close to pulp chamber, possibly requiring RCT or restoration if asymptomatic.",
         "treatment": "RCT",
-        "tooth": "upper_right_molar",
+        "tooth": "upper_right_first_molar",
         "object_id": "item-2191039251_upper_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56247,7 +56260,7 @@
       {
         "diagnosis": "Molar restoration close to pulp with periapical changes indicating pulpal involvement requiring root canal treatment (RCT) and crown",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1006360953_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56265,7 +56278,7 @@
       {
         "diagnosis": "Premolar pulp chamber close to surface with periapical changes indicating pulp necrosis and possible apical periodontitis, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_bicuspid",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-2749020886_lower_left_bicuspid_individual",
         "wd": 0,
         "ht": 0,
@@ -56301,7 +56314,7 @@
       {
         "diagnosis": "Deep cavity on molar touching pulp with periapical changes, requiring RCT and crown",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-2347456211_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56319,7 +56332,7 @@
       {
         "diagnosis": "RCT treated molar with incomplete obturation extending to the apical end of the root, requiring re-RCT and crown",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-2802805519_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56337,7 +56350,7 @@
       {
         "diagnosis": "Faulty restoration on molar extending till pulp chamber requires RCT and crown",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3826239839_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56355,7 +56368,7 @@
       {
         "diagnosis": "Deep cavity involving pulp on the rightmost premolar requiring RCT. Cavity on left premolar is restorable if no pain.",
         "treatment": "RCT",
-        "tooth": "upper_right_lateral_molar",
+        "tooth": "upper_right_first_molar",
         "object_id": "item-1624917041_upper_right_lateral_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56391,7 +56404,7 @@
       {
         "diagnosis": "Deep cavity on molar touching pulp with periapical changes, requiring RCT and crown",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-2347456211_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56427,7 +56440,7 @@
       {
         "diagnosis": "Severe attrition on molar, pulp close to surface, periapical changes present, requiring RCT and crown",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1796897879_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56445,7 +56458,7 @@
       {
         "diagnosis": "Deep restoration close to pulp on right premolar with periapical changes, requiring RCT and crown. RCT performed on left premolar requiring crown.",
         "treatment": "RCT",
-        "tooth": "upper_right_pre_molar",
+        "tooth": "upper_right_first_premolar",
         "object_id": "item-746203826_upper_right_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56463,7 +56476,7 @@
       {
         "diagnosis": "Deep cavity on right molar close to pulp with PDL widening indicating pulp involvement, necessitating endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-62865960_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56481,7 +56494,7 @@
       {
         "diagnosis": "Large restoration on the middle premolar close to pulp, indicating pulpal involvement and requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-954129782_lower_left_middle_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56499,7 +56512,7 @@
       {
         "diagnosis": "Deep cavity on the right molar involving the pulp, necessitating endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1148580880_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56517,7 +56530,7 @@
       {
         "diagnosis": "Deep cavity on the right molar close to pulp, indicating pulp involvement and requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-788547694_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56535,7 +56548,7 @@
       {
         "diagnosis": "Periapical lesion associated with a previously treated middle molar requiring additional root canal therapy",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-2028252956_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56553,7 +56566,7 @@
       {
         "diagnosis": "Deep cavity involving the pulp of the middle molar, necessitating endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3955983731_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56571,7 +56584,7 @@
       {
         "diagnosis": "Deep cavity involving the pulp of the right molar, necessitating endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3978757762_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56589,7 +56602,7 @@
       {
         "diagnosis": "Deep cavity on the rightmost premolar very close to pulp with significant loss of tooth structure, requiring endodontic treatment.",
         "treatment": "RCT",
-        "tooth": "upper_right_lateral_molar",
+        "tooth": "upper_right_first_molar",
         "object_id": "item-3135484039_upper_right_lateral_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56607,7 +56620,7 @@
       {
         "diagnosis": "Deep cavity involving pulp on middle tooth lateral incisor",
         "treatment": "RCT",
-        "tooth": "upper_middle_lateral_incisor",
+        "tooth": "upper_right_lateral_incisor",
         "object_id": "item-474010434_upper_middle_lateral_incisor_individual",
         "wd": 0,
         "ht": 0,
@@ -56643,7 +56656,7 @@
       {
         "diagnosis": "Faulty RCT on the middle molar, indicating incomplete root canal treatment and possible reinfection",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1292271282_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56661,7 +56674,7 @@
       {
         "diagnosis": "Deep cavity very close to pulp on the middle molar and left molar, indicating pulp involvement requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3478896133_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56679,7 +56692,7 @@
       {
         "diagnosis": "Deep cavity involving the mesial and distal aspects of the molar, with PDL widening indicating apical involvement, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2696201198_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56697,7 +56710,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on the middle molar with root resorption and deep cavity close to nerve on the left molar requiring RCT",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-343477913_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56715,7 +56728,7 @@
       {
         "diagnosis": "PDL widening on the left molar and deep cavity on the right premolar, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1357324960_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56733,7 +56746,7 @@
       {
         "diagnosis": "Deep cavity involving the pulp of the middle molar",
         "treatment": "RCT",
-        "tooth": "lower_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1867004357_lower_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56751,7 +56764,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on the middle premolar with significant loss of tooth structure, necessitating endodontic treatment",
         "treatment": "RCT",
-        "tooth": "upper_right_middle_molar",
+        "tooth": "upper_right_first_molar",
         "object_id": "item-136164342_upper_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56769,7 +56782,7 @@
       {
         "diagnosis": "Severe caries with extensive loss of tooth structure involving the middle premolar, necessitating endodontic treatment due to the extent of decay and structural compromise.",
         "treatment": "RCT",
-        "tooth": "upper_right_middle_pre_molar",
+        "tooth": "upper_right_first_premolar",
         "object_id": "item-2740755317_upper_right_middle_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56787,7 +56800,7 @@
       {
         "diagnosis": "Periapical changes secondary to a secondary cavity underneath the crown of the middle molar, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-46002381_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56841,7 +56854,7 @@
       {
         "diagnosis": "Deep proximal cavity on the right molar involving the pulp, necessitating endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3221671320_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56859,7 +56872,7 @@
       {
         "diagnosis": "Deep cavity involving pulp with significant loss of tooth structure on the middle incisor",
         "treatment": "RCT",
-        "tooth": "upper_middle_incisor",
+        "tooth": "upper_right_central_incisor",
         "object_id": "item-2374407962_upper_middle_incisor_individual",
         "wd": 0,
         "ht": 0,
@@ -56877,7 +56890,7 @@
       {
         "diagnosis": "Deep cavity very close to pulp on the middle premolar with associated PDL widening indicating pulp involvement",
         "treatment": "RCT",
-        "tooth": "upper_right_middle_pre_molar",
+        "tooth": "upper_right_first_premolar",
         "object_id": "item-1333667307_upper_right_middle_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56895,7 +56908,7 @@
       {
         "diagnosis": "Large cavity close to pulp on the middle molar with mild periapical changes",
         "treatment": "RCT",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2091408791_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56913,7 +56926,7 @@
       {
         "diagnosis": "Large proximal cavity on the middle molar with associated periapical changes",
         "treatment": "RCT",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2771543785_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56931,7 +56944,7 @@
       {
         "diagnosis": "Secondary cavity involving the nerve of the middle molar, requiring root canal treatment (RCT), and a root stump on the adjacent left tooth necessitating extraction",
         "treatment": "RCT and extraction",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-2570175133_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56949,7 +56962,7 @@
       {
         "diagnosis": "Large periapical infection involving the middle incisor",
         "treatment": "RCT",
-        "tooth": "upper_middle_incisor",
+        "tooth": "upper_right_central_incisor",
         "object_id": "item-2380980146_upper_middle_incisor_individual",
         "wd": 0,
         "ht": 0,
@@ -56967,7 +56980,7 @@
       {
         "diagnosis": "Very deep proximal cavity touching nerve on the middle molar",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-2301543114_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -56985,7 +56998,7 @@
       {
         "diagnosis": "Grossly decayed right molar with periapical changes and PDL widening",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3956135385_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57003,7 +57016,7 @@
       {
         "diagnosis": "Deep cavity on the right molar involving the pulp, necessitating endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1148580880_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57021,7 +57034,7 @@
       {
         "diagnosis": "Deep proximal cavities seen on left and middle molars, requiring an RCT",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-28044640_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57039,7 +57052,7 @@
       {
         "diagnosis": "Proximal cavity on the middle premolar with mild periapical infection",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3927297093_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57057,7 +57070,7 @@
       {
         "diagnosis": "Deep proximal cavity touching nerve on the middle premolar, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "upper_right_middle_molar",
+        "tooth": "upper_right_first_molar",
         "object_id": "item-2024061540_upper_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57075,7 +57088,7 @@
       {
         "diagnosis": "Deep proximal cavity close to nerve on middle molar with associated periapical changes",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1368784030_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57093,7 +57106,7 @@
       {
         "diagnosis": "Large occlusal cavity on the right premolar involving the pulp, necessitating endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_pre_molar",
+        "tooth": "lower_right_first_premolar",
         "object_id": "item-1971635188_lower_right_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57111,7 +57124,7 @@
       {
         "diagnosis": "Deep proximal cavity on the middle right molar involving the pulp, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2555602418_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57147,7 +57160,7 @@
       {
         "diagnosis": "Faulty restoration on the middle molar touching pulp, requiring RCT. Impacted wisdom tooth on the left.",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-2193067698_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57165,7 +57178,7 @@
       {
         "diagnosis": "Deep proximal cavity on the middle premolar involving the pulp, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "upper_right_middle_molar",
+        "tooth": "upper_right_first_molar",
         "object_id": "item-2338483889_upper_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57183,7 +57196,7 @@
       {
         "diagnosis": "Large periapical infection on the middle incisor requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "upper_middle_incisor",
+        "tooth": "upper_right_central_incisor",
         "object_id": "item-1359075698_upper_middle_incisor_individual",
         "wd": 0,
         "ht": 0,
@@ -57201,7 +57214,7 @@
       {
         "diagnosis": "Large proximal cavities close to pulp on middle and right molars, necessitating endodontic treatment due to proximity to the pulp chamber",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2365233898_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57219,7 +57232,7 @@
       {
         "diagnosis": "Deep cavities on the middle premolar, significant loss of tooth structure, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "upper_right_middle_molar",
+        "tooth": "upper_right_first_molar",
         "object_id": "item-3203332169_upper_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57237,7 +57250,7 @@
       {
         "diagnosis": "Deep cavity on middle incisor involving the pulp, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "upper_right_middle_incisor",
+        "tooth": "upper_right_central_incisor",
         "object_id": "item-161526073_upper_right_middle_incisor_individual",
         "wd": 0,
         "ht": 0,
@@ -57255,7 +57268,7 @@
       {
         "diagnosis": "Deep proximal cavity extending to the root on the middle molar, requiring an RCT",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1663702659_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57273,7 +57286,7 @@
       {
         "diagnosis": "Proximal cavity close to pulp on left molar. Impacted wisdom tooth requiring RCT.",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3375055645_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57291,7 +57304,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on left molar, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1202539115_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57309,7 +57322,7 @@
       {
         "diagnosis": "Large periapical infection on both middle incisors with high probability of a cystic lesion",
         "treatment": "RCT",
-        "tooth": "upper_right_middle_incisor",
+        "tooth": "upper_right_central_incisor",
         "object_id": "item-49985170_upper_right_middle_incisor_individual",
         "wd": 0,
         "ht": 0,
@@ -57327,7 +57340,7 @@
       {
         "diagnosis": "Deep cavity touching pulp on right molar with significant loss of tooth structure, necessitating endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-348535953_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57345,7 +57358,7 @@
       {
         "diagnosis": "Large proximal cavity close to pulp on middle molar and impacted wisdom tooth requiring extraction with subsequent RCT",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1519635653_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57363,7 +57376,7 @@
       {
         "diagnosis": "Large proximal cavity touching pulp on middle molar with associated periapical infection and changes",
         "treatment": "RCT",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-4106178846_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57381,7 +57394,7 @@
       {
         "diagnosis": "Deep occlusal cavity close to pulp on right molar, impacted wisdom tooth requiring extraction, missing left molar needing RCT",
         "treatment": "extraction, restoration, RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-668949669_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57399,7 +57412,7 @@
       {
         "diagnosis": "Deep proximal cavity touching nerve on middle molar, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1046184616_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57417,7 +57430,7 @@
       {
         "diagnosis": "Large and deep cavity touching pulp on middle molar requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-403696757_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57435,7 +57448,7 @@
       {
         "diagnosis": "Deep proximal cavity very close to pulp on left premolar",
         "treatment": "RCT",
-        "tooth": "lower_left_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-328748281_lower_left_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57453,7 +57466,7 @@
       {
         "diagnosis": "Faulty root canal on middle molar with obturation not extending to apex, associated periapical changes. Deep proximal cavity on left premolar close to pulp requiring RCT",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-666385951_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57471,7 +57484,7 @@
       {
         "diagnosis": "Secondary cavity close to pulp under restoration of middle premolar, requiring an rct",
         "treatment": "RCT",
-        "tooth": "upper_right_middle_pre_molar",
+        "tooth": "upper_right_first_premolar",
         "object_id": "item-3552469765_upper_right_middle_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57489,7 +57502,7 @@
       {
         "diagnosis": "Deep proximal cavity very close to pulp on middle premolar, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "upper_right_middle_molar",
+        "tooth": "upper_right_first_molar",
         "object_id": "item-3533584404_upper_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57507,7 +57520,7 @@
       {
         "diagnosis": "Deep proximal cavity touching/involving pulp on middle premolar, asymptomatic with potential for restoration, requiring RCT",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-3335026579_lower_left_middle_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57525,7 +57538,7 @@
       {
         "diagnosis": "Large periapical lesion associated with middle molar which is root canal treated. Impacted wisdom tooth requires extraction, requiring an RCT.",
         "treatment": "extraction",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3303551234_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57543,7 +57556,7 @@
       {
         "diagnosis": "Secondary cavity touching pulp under restoration of left premolar, requiring an rct",
         "treatment": "RCT",
-        "tooth": "lower_left_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-777191561_lower_left_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57561,7 +57574,7 @@
       {
         "diagnosis": "Secondary cavity touching pulp under restoration of left premolar, requiring an rct",
         "treatment": "RCT",
-        "tooth": "lower_left_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-777191561_lower_left_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57579,7 +57592,7 @@
       {
         "diagnosis": "Secondary cavity under restoration of middle molar and proximal cavity on left molar very close to pulp",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-4238613534_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57597,7 +57610,7 @@
       {
         "diagnosis": "Restoration on middle molar very close to pulp, requiring an RCT",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3650309712_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57615,7 +57628,7 @@
       {
         "diagnosis": "Deep proximal cavity touching pulp on middle premolar requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "upper_right_middle_pre_molar",
+        "tooth": "upper_right_first_premolar",
         "object_id": "item-1759536716_upper_right_middle_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57633,7 +57646,7 @@
       {
         "diagnosis": "Deep proximal cavity touching nerve on middle molar with associated periapical changes",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1359281382_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57651,7 +57664,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on left premolar and root cavity on right molar requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-926661465_lower_left_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57669,7 +57682,7 @@
       {
         "diagnosis": "Proximal cavity on middle molar close to pulp with associated periapical changes",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-501212899_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57687,7 +57700,7 @@
       {
         "diagnosis": "Large and deep cavity touching pulp on premolar, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_first_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-749118959_lower_left_first_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57705,7 +57718,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on middle premolar, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "upper_right_middle_molar",
+        "tooth": "upper_right_first_molar",
         "object_id": "item-1110108078_upper_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57723,7 +57736,7 @@
       {
         "diagnosis": "Deep proximal cavity very close to pulp on middle molar",
         "treatment": "RCT",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2074780820_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57741,7 +57754,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on middle molar requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-83097615_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57759,7 +57772,7 @@
       {
         "diagnosis": "Deep proximal cavity very close to pulp on left molar",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3525793484_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57777,7 +57790,7 @@
       {
         "diagnosis": "Deep proximal cavity very close to pulp on right molar with associated PDL widening and periapical changes",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-4155996986_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57795,7 +57808,7 @@
       {
         "diagnosis": "Large proximal restorations on left and middle molars, close to pulp, requiring an rct",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1767918995_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57813,7 +57826,7 @@
       {
         "diagnosis": "Deep proximal cavities on both middle molars involving the pulp, necessitating endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3907891542_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57831,7 +57844,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on middle molar, proximal cavity on right molar with asymptomatic restoration possible but requiring RCT",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1900252806_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57849,7 +57862,7 @@
       {
         "diagnosis": "Large and deep proximal cavity touching pulp on middle molar. Fractured restoration on root can treated right molar, requiring endodontic treatment and new restoration with crown",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3388524982_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57867,7 +57880,7 @@
       {
         "diagnosis": "Deep proximal cavity touching pulp and extending to the root on left molar",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1125240257_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57885,7 +57898,7 @@
       {
         "diagnosis": "Secondary cavity touching pulp under restoration of middle molar, requiring an RCT",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-4017613200_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57903,7 +57916,7 @@
       {
         "diagnosis": "Deep proximal cavity touching pulp on middle canine requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "upper_right_middle_canine",
+        "tooth": "upper_right_canine",
         "object_id": "item-2650679060_upper_right_middle_canine_individual",
         "wd": 0,
         "ht": 0,
@@ -57921,7 +57934,7 @@
       {
         "diagnosis": "Deep proximal cavity touching pulp on middle molar requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-4165129975_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57939,7 +57952,7 @@
       {
         "diagnosis": "Restoration touching pulp on middle incisor. Proximal cavity close to pulp on middle canine requiring RCT",
         "treatment": "restoration, RCT",
-        "tooth": "upper_middle_incisor",
+        "tooth": "upper_right_central_incisor",
         "object_id": "item-2115637397_upper_middle_incisor_individual",
         "wd": 0,
         "ht": 0,
@@ -57957,7 +57970,7 @@
       {
         "diagnosis": "Secondary cavity under restoration on the middle molar requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1125631704_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57975,7 +57988,7 @@
       {
         "diagnosis": "Periapical changes on the middle molar indicating the need for endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3302143357_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -57993,7 +58006,7 @@
       {
         "diagnosis": "Faulty root canal on middle molar with associated periapical infection involving furcation area",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3924197389_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58029,7 +58042,7 @@
       {
         "diagnosis": "Deep proximal cavity close to nerve on middle premolar requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "upper_right_middle_molar",
+        "tooth": "upper_right_first_molar",
         "object_id": "item-669901083_upper_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58047,7 +58060,7 @@
       {
         "diagnosis": "Secondary cavity close to pulp under restoration of middle molar, requiring an rct",
         "treatment": "RCT",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1027194544_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58065,7 +58078,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on middle molar with associated periapical changes",
         "treatment": "RCT",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3286119051_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58083,7 +58096,7 @@
       {
         "diagnosis": "Faulty root canal with obturation not extending to the apex of the root and associated periapical infection",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3531674325_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58101,7 +58114,7 @@
       {
         "diagnosis": "Deep proximal cavity touching pulp on middle molar, associated periapical changes. Impacted wisdom tooth requiring extraction and RCT.",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1055976766_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58119,7 +58132,7 @@
       {
         "diagnosis": "Deep proximal cavity touching pulp on middle molar, associated periapical changes",
         "treatment": "RCT",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2811757915_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58137,7 +58150,7 @@
       {
         "diagnosis": "Deep proximal cavity touching pulp on middle molar requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-4165129975_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58155,7 +58168,7 @@
       {
         "diagnosis": "Deep proximal cavities close to pulp on middle molar and right molar, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2542594759_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58173,7 +58186,7 @@
       {
         "diagnosis": "Proximal cavity touching pulp on left molar requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-153803155_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58191,7 +58204,7 @@
       {
         "diagnosis": "Proximal cavity close to pulp on right molar, proximal cavity on middle molar with asymptomatic restoration possible, requiring RCT",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3125289973_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58227,7 +58240,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on the left premolar, requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_left_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-3264863452_lower_left_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58245,7 +58258,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on both center deciduous incisors, underlying permanent teeth, requiring a filling",
         "treatment": "restoration",
-        "tooth": "upper_right_central_deciduous_incisor",
+        "tooth": "upper_right_central_incisor",
         "object_id": "item-3997768302_upper_right_central_deciduous_incisor_individual",
         "wd": 0,
         "ht": 0,
@@ -58263,7 +58276,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on right molar with fractured restoration present, requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-166704770_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58281,7 +58294,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on the center molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2253570051_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58299,7 +58312,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on the right molar indicating possible pulp involvement; small cavity on the left molar requiring a filling",
         "treatment": "restoration for left molar; extraction or RCT for right molar based on pulp involvement",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-4089090853_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58317,7 +58330,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on right molar indicating possible pulp involvement; small cavity on left molar requiring a filling",
         "treatment": "restoration for left molar, extraction for right molar due to pulp involvement",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3274562837_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58335,7 +58348,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on the right molar indicating possible pulp involvement; small cavity on the left molar requiring a filling",
         "treatment": "restoration for left molar; extraction or RCT for right molar based on pulp involvement",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-4089090853_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58353,7 +58366,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on the center molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2253570051_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58371,7 +58384,7 @@
       {
         "diagnosis": "Deep cavity on the center molar requiring a restoration",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3439367080_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58389,7 +58402,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58425,7 +58438,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58443,7 +58456,7 @@
       {
         "diagnosis": "Deep occlusal cavity close to pulp on right molar, impacted wisdom molar requiring extraction",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-661081701_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58461,7 +58474,7 @@
       {
         "diagnosis": "Occlusal cavity on the center molar requiring a restoration",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-236795658_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58479,7 +58492,7 @@
       {
         "diagnosis": "Occlusal cavity close to pulp on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3721322817_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58497,7 +58510,7 @@
       {
         "diagnosis": "Secondary cavity close to pulp under existing proximal restoration on the center premolar",
         "treatment": "restoration",
-        "tooth": "upper_right_center_premolar",
+        "tooth": "upper_right_first_premolar",
         "object_id": "item-1136753887_upper_right_center_premolar_individual",
         "wd": 0,
         "ht": 0,
@@ -58515,7 +58528,7 @@
       {
         "diagnosis": "Occlusal and proximal cavity on the center molar requiring a restoration",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3648092363_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58533,7 +58546,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the right molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-4119276518_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58551,7 +58564,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58569,7 +58582,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58587,7 +58600,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the right molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-4119276518_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58605,7 +58618,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the center premolar",
         "treatment": "restoration",
-        "tooth": "lower_left_center_premolar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-1817441384_lower_left_center_premolar_individual",
         "wd": 0,
         "ht": 0,
@@ -58623,7 +58636,7 @@
       {
         "diagnosis": "Deep proximal cavities on both sides of the left molar requiring restoration",
         "treatment": "restoration",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-2237167967_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58641,7 +58654,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on both left and right molars, requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1248503967_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58659,7 +58672,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on center deciduous molar with underlying permanent tooth present",
         "treatment": "restoration",
-        "tooth": "lower_left_deciduous_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1141941359_lower_left_deciduous_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58677,7 +58690,7 @@
       {
         "diagnosis": "Deep proximal cavity on the center molar and impacted wisdom molar requiring extraction",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-82346692_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58695,7 +58708,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the center molar and partially erupted wisdom molar requiring extraction",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1931291682_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58713,7 +58726,7 @@
       {
         "diagnosis": "Secondary cavity under the cap on root canal treated right premolar, deep proximal cavity close to pulp on center molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_center_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1981078178_lower_center_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58731,7 +58744,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp extending into the root on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1304803388_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58749,7 +58762,7 @@
       {
         "diagnosis": "Deep cavity and fractured restoration close to pulp on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-4000020900_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58767,7 +58780,7 @@
       {
         "diagnosis": "Secondary cavity under existing restoration on the center molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_center_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1989925884_lower_center_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58785,7 +58798,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on left molar requiring restoration",
         "treatment": "restoration",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3864133198_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58803,7 +58816,7 @@
       {
         "diagnosis": "Secondary cavity under existing restoration on left premolar and center molar, requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_left_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-3157629809_lower_left_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58821,7 +58834,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp affecting both the right molar and center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2641084998_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58839,7 +58852,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58857,7 +58870,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58875,7 +58888,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on left molar and secondary cavity under restoration on center molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3708847082_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58893,7 +58906,7 @@
       {
         "diagnosis": "Deep proximal cavity on the center molar and small occlusal cavity on the left molar",
         "treatment": "restoration",
-        "tooth": "lower_center_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-44795203_lower_center_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58911,7 +58924,7 @@
       {
         "diagnosis": "Secondary cavity under restoration and proximal cavity on the right molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3726775969_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58929,7 +58942,7 @@
       {
         "diagnosis": "Secondary cavity under existing restoration on the center molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_center_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1989925884_lower_center_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58947,7 +58960,7 @@
       {
         "diagnosis": "Deep proximal cavity on the left molar requiring restoration",
         "treatment": "restoration",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-66985407_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58965,7 +58978,7 @@
       {
         "diagnosis": "Deep proximal cavity on the left molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1057282819_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -58983,7 +58996,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on center premolar and secondary cavity under restoration on center molar",
         "treatment": "restoration",
-        "tooth": "lower_center_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-165378365_lower_center_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59001,7 +59014,7 @@
       {
         "diagnosis": "Deep occlusal cavity on the center molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2507846445_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59019,7 +59032,7 @@
       {
         "diagnosis": "Deep occlusal cavity close to pulp on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2090468233_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59037,7 +59050,7 @@
       {
         "diagnosis": "Secondary cavity under existing restoration on the center molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_center_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1989925884_lower_center_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59055,7 +59068,7 @@
       {
         "diagnosis": "Proximal cavity on the right molar requiring a filling, and a missing center molar requiring replacement",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3982400762_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59073,7 +59086,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on right molar with secondary cavity under cap on root canal treated right molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3559574147_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59091,7 +59104,7 @@
       {
         "diagnosis": "Secondary cavity close to pulp under existing restoration on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_central_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-445525732_lower_right_central_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59127,7 +59140,7 @@
       {
         "diagnosis": "Secondary cavity close to pulp under existing restoration on upper_right_central_molar, proximal cavity on upper_right_molar requiring filling and proximal cavity on upper_left_molar requiring filling",
         "treatment": "restoration",
-        "tooth": "upper_right_central_molar",
+        "tooth": "upper_right_first_molar",
         "object_id": "item-2789166152_upper_right_central_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59145,7 +59158,7 @@
       {
         "diagnosis": "Deep occlusal cavity close to pulp on the center molar and proximal cavity on the left premolar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2262702029_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59163,7 +59176,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the center premolar",
         "treatment": "restoration",
-        "tooth": "lower_left_center_premolar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-1817441384_lower_left_center_premolar_individual",
         "wd": 0,
         "ht": 0,
@@ -59181,7 +59194,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the center premolar",
         "treatment": "restoration",
-        "tooth": "lower_left_center_premolar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-1817441384_lower_left_center_premolar_individual",
         "wd": 0,
         "ht": 0,
@@ -59217,7 +59230,7 @@
       {
         "diagnosis": "Proximal cavity close to pulp on left molar requiring restoration",
         "treatment": "restoration",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-258747398_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59235,7 +59248,7 @@
       {
         "diagnosis": "Secondary cavity under existing restoration of left molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-2355110477_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59253,7 +59266,7 @@
       {
         "diagnosis": "Proximal cavity close to pulp on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3881406919_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59271,7 +59284,7 @@
       {
         "diagnosis": "Proximal cavity on the left molar requiring a filling, and a missing center molar necessitating replacement",
         "treatment": "restoration",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3299855730_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59289,7 +59302,7 @@
       {
         "diagnosis": "Secondary cavity under existing restoration of the center molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_center_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-942169588_lower_center_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59307,7 +59320,7 @@
       {
         "diagnosis": "Secondary cavity under existing restoration in the right molar, requiring a filling.",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2780846943_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59325,7 +59338,7 @@
       {
         "diagnosis": "Occlusal cavity on the center molar requiring a restoration",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-236795658_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59343,7 +59356,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on left molar requiring restoration",
         "treatment": "restoration",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3864133198_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59379,7 +59392,7 @@
       {
         "diagnosis": "Deep occlusal cavity close to pulp on the right molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-950723000_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59397,7 +59410,7 @@
       {
         "diagnosis": "Secondary cavity under existing restoration of the center molar and proximal cavity on the right premolar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_center_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-2372713693_lower_center_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59415,7 +59428,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on center molar and right molar",
         "treatment": "restoration",
-        "tooth": "lower_center_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-3523348334_lower_center_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59433,7 +59446,7 @@
       {
         "diagnosis": "Deep occlusal cavity close to pulp on right molar, impacted wisdom molar present",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-4055298431_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59451,7 +59464,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59469,7 +59482,7 @@
       {
         "diagnosis": "Deep proximal cavity on the center molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2594116951_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59487,7 +59500,7 @@
       {
         "diagnosis": "Occlusal cavity on the center molar requiring a restoration",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-236795658_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59505,7 +59518,7 @@
       {
         "diagnosis": "Proximal cavity on left premolar requiring restoration, fractured right molar with root stumps present necessitating extraction and replacement",
         "treatment": "restoration, extraction",
-        "tooth": "lower_left_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-1987480864_lower_left_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59541,7 +59554,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on middle molar and cavity on the root portion of left molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-612309151_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59559,7 +59572,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59577,7 +59590,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on middle premolar requiring restoration",
         "treatment": "restoration",
-        "tooth": "upper_right_middle_pre_molar",
+        "tooth": "upper_right_first_premolar",
         "object_id": "item-2890580079_upper_right_middle_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59595,7 +59608,7 @@
       {
         "diagnosis": "Small proximal cavity on the left premolar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_left_bicuspid",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-1391169501_lower_left_bicuspid_individual",
         "wd": 0,
         "ht": 0,
@@ -59613,7 +59626,7 @@
       {
         "diagnosis": "Occlusal cavity on the center molar requiring a restoration",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-236795658_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59631,7 +59644,7 @@
       {
         "diagnosis": "Proximal cavity close to pulp on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3881406919_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59649,7 +59662,7 @@
       {
         "diagnosis": "Occlusal cavity on the center molar requiring a restoration",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-236795658_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59667,7 +59680,7 @@
       {
         "diagnosis": "Deep occlusal cavity on the right molar requiring restoration",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-656883284_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59703,7 +59716,7 @@
       {
         "diagnosis": "Secondary cavity under existing restoration of the center molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_center_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-942169588_lower_center_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59721,7 +59734,7 @@
       {
         "diagnosis": "Secondary proximal cavity under existing restoration of the right molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-707545099_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59739,7 +59752,7 @@
       {
         "diagnosis": "Proximal and occlusal cavity on the left molar requiring a restoration",
         "treatment": "restoration",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-2207138931_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59757,7 +59770,7 @@
       {
         "diagnosis": "Proximal cavity on the right molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1114486162_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59793,7 +59806,7 @@
       {
         "diagnosis": "Secondary cavity under existing restoration of the center molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_center_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-942169588_lower_center_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59811,7 +59824,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on the center molar",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2204544879_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59829,7 +59842,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp and extending into the root on the center molar, small proximal cavity on the left molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_center_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-889667424_lower_center_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59847,7 +59860,7 @@
       {
         "diagnosis": "Deep proximal cavity on root canal treated right premolar requiring restoration, and missing center molar requiring replacement",
         "treatment": "restoration",
-        "tooth": "lower_right_pre_molar",
+        "tooth": "lower_right_first_premolar",
         "object_id": "item-483412593_lower_right_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59865,7 +59878,7 @@
       {
         "diagnosis": "Proximal cavity on the center molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-4281939343_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59883,7 +59896,7 @@
       {
         "diagnosis": "Proximal cavity on right molar, deep proximal cavity close to pulp on left molar, attrition with worn down occlusal surface on center molar requiring a filling",
         "treatment": "Restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3302989610_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59901,7 +59914,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on right molar and secondary cavity under existing restoration on center molar requiring filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3061181873_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59937,7 +59950,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on both center premolars",
         "treatment": "restoration",
-        "tooth": "upper_right_center_pre_molar",
+        "tooth": "upper_right_first_premolar",
         "object_id": "item-1542265117_upper_right_center_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59955,7 +59968,7 @@
       {
         "diagnosis": "Secondary cavity under existing restoration of left premolar and small proximal cavity on center premolar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_left_pre_molar",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-4159320030_lower_left_pre_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59973,7 +59986,7 @@
       {
         "diagnosis": "Deep proximal cavity close to pulp on center molar and fractured restoration on root canal treated right molar requiring a filling",
         "treatment": "restoration",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-454445745_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -59991,7 +60004,7 @@
       {
         "diagnosis": "Retained deciduous tooth in the middle with resorbed roots and underlying permanent tooth bud",
         "treatment": "extraction",
-        "tooth": "lower_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-3804912095_lower_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -60009,7 +60022,7 @@
       {
         "diagnosis": "Impacted wisdom molar with potential for pericoronitis and cyst formation",
         "treatment": "extraction",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2967133036_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -60027,7 +60040,7 @@
       {
         "diagnosis": "Deep cavity on the left wisdom molar with extensive decay involving the pulp, necessitating extraction",
         "treatment": "extraction",
-        "tooth": "lower_left_wisdom_molar",
+        "tooth": "lower_left_third_molar",
         "object_id": "item-2629140919_lower_left_wisdom_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -60045,7 +60058,7 @@
       {
         "diagnosis": "Deep cavity on the left molar with significant bone loss extending to the middle third, indicating advanced caries and potential vertical root fracture",
         "treatment": "extraction",
-        "tooth": "lower_left_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-2691088939_lower_left_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -60063,7 +60076,7 @@
       {
         "diagnosis": "Premolar pulp chamber close to surface with periapical changes indicating pulp necrosis and possible apical periodontitis, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_left_bicuspid",
+        "tooth": "lower_left_first_premolar",
         "object_id": "item-2749020886_lower_left_bicuspid_individual",
         "wd": 0,
         "ht": 0,
@@ -60081,7 +60094,7 @@
       {
         "diagnosis": "Secondary cavity under existing restoration on the middle molar and right premolar, requiring endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-42164156_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -60099,7 +60112,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on the middle molar with periapical lesion indicating the need for endodontic treatment",
         "treatment": "RCT",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1799285692_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -60117,7 +60130,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on the middle premolar and a grossly decayed middle molar with significant loss of tooth structure requiring RCT",
         "treatment": "RCT",
-        "tooth": "lower_left_middle_molar",
+        "tooth": "lower_left_first_molar",
         "object_id": "item-1406806845_lower_left_middle_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -60135,7 +60148,7 @@
       {
         "diagnosis": "Large cavity on right molar with significant loss of tooth structure. Proximal cavity on left premolar close to nerve, restoration can be attempted if asymptomatic, requiring an rct.",
         "treatment": "RCT",
-        "tooth": "lower_right_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-1345250018_lower_right_molar_individual",
         "wd": 0,
         "ht": 0,
@@ -60153,7 +60166,7 @@
       {
         "diagnosis": "Deep cavity close to pulp on middle molar and deep proximal cavity close to pulp on right molar",
         "treatment": "restoration",
-        "tooth": "lower_right_middle_molar",
+        "tooth": "lower_right_first_molar",
         "object_id": "item-2979081081_lower_right_middle_molar_individual",
         "wd": 0,
         "ht": 0,
