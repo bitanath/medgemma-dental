@@ -21,10 +21,11 @@ const TOOTH_TYPES = [
 ];
 
 const TOOTH_COLORS = [
-  '#FF0000', '#00FF00', '#0000FF', '#FFFF00', '#FF00FF', '#00FFFF', '#FFA500', '#800080',
+  '#00FF00', '#0000FF', '#FFFF00', '#FF00FF', '#00FFFF', '#FFA500', '#800080', '#b2eaa1',
   '#008000', '#000080', '#808000', '#800000', '#008080', '#C0C0C0', '#808080', '#FF69B4',
   '#4B0082', '#FFD700', '#32CD32', '#FF6347', '#40E0D0', '#EE82EE', '#F5DEB3', '#D2691E',
-  '#DC143C', '#00CED1', '#9400D3', '#FF1493', '#7FFF00', '#B8860B', '#9932CC', '#FF4500'
+  '#00CED1', '#9400D3', '#FF1493', '#7FFF00', '#B8860B', '#9932CC', '#fa936d', '#20B2AA',
+  '#1f1e11',
 ];
 
 const TREATMENTS = ['none', 'extraction', 'restoration', 'rct', 'filling'];
@@ -48,7 +49,9 @@ function App() {
   const [hasChanges, setHasChanges] = useState(false);
   
   const canvasRef = useRef(null);
-  const [scale, setScale] = useState(1);
+  const [baseScale, setBaseScale] = useState(1);
+  const [zoomLevel, setZoomLevel] = useState(1);
+  const scale = baseScale * zoomLevel;
   const [isDrawing, setIsDrawing] = useState(false);
   const [startPos, setStartPos] = useState(null);
   const [currentBox, setCurrentBox] = useState(null);
@@ -77,6 +80,17 @@ function App() {
     return () => clearInterval(interval);
   }, [hasChanges, currentImage, boxes]);
 
+  useEffect(() => {
+    const handleKeyDown = (e) => {
+      if ((e.key === 'Delete' || e.key === 'Backspace') && selectedBox !== null) {
+        e.preventDefault();
+        deleteBox(selectedBox);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [selectedBox, boxes]);
+
   const loadImage = useCallback((filename, index) => {
     setLoading(true);
     fetch(`${API_BASE}/api/image/${filename}`)
@@ -88,6 +102,7 @@ function App() {
         setBoxes(data.objects || []);
         setSelectedBox(null);
         setHasChanges(false);
+        setZoomLevel(1);
         setLoading(false);
       })
       .catch(err => {
@@ -95,6 +110,14 @@ function App() {
         setLoading(false);
       });
   }, []);
+
+  const handleZoomIn = () => {
+    setZoomLevel(prev => Math.min(prev * 1.25, 1.56));
+  };
+
+  const handleZoomOut = () => {
+    setZoomLevel(prev => Math.max(prev / 1.25, 0.75));
+  };
 
   const handleSave = useCallback(async () => {
     if (!currentImage) return;
@@ -208,12 +231,12 @@ function App() {
       const containerWidth = canvas.parentElement.clientWidth - 40;
       const containerHeight = canvas.parentElement.clientHeight - 40;
       const imgScale = Math.min(containerWidth / 1024, containerHeight / 1024, 1);
-      setScale(imgScale);
+      setBaseScale(imgScale);
       
       canvas.width = 1024;
       canvas.height = 1024;
-      canvas.style.width = `${1024 * imgScale}px`;
-      canvas.style.height = `${1024 * imgScale}px`;
+      canvas.style.width = `${1024 * scale}px`;
+      canvas.style.height = `${1024 * scale}px`;
       
       ctx.drawImage(img, 0, 0);
       
@@ -263,8 +286,13 @@ function App() {
   return (
     <div className="app">
       <div className="header">
-        <h1>Dental X-Ray Annotator</h1>
+        <h1>Custom X-Ray Annotator</h1>
         <div className="status-bar">
+          <div className="zoom-controls">
+            <button onClick={handleZoomOut} className="zoom-btn">−</button>
+            <span className="zoom-level">{Math.round(zoomLevel * 100)}%</span>
+            <button onClick={handleZoomIn} className="zoom-btn">+</button>
+          </div>
           {hasChanges && <span className="unsaved">● Unsaved changes</span>}
           {saving && <span className="saving">Saving...</span>}
           {lastSaved && !saving && (
