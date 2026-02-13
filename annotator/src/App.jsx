@@ -28,10 +28,10 @@ const TOOTH_COLORS = [
   '#1f1e11',
 ];
 
-const TREATMENTS = ['none', 'extraction', 'restoration', 'rct', 'filling'];
+const TREATMENTS = ['none', 'extraction', 'restoration', 'replacement', 'rct', 'filling'];
 
 function getBoxColor(box) {
-  if (box.treatment && box.treatment !== 'none') {
+  if (box.treatment && box.treatment.toLowerCase() !== 'none') {
     return '#FF0000';
   }
   const toothIndex = TOOTH_TYPES.indexOf(box.tooth);
@@ -60,6 +60,7 @@ function App() {
   const [dragMode, setDragMode] = useState(null); // 'move' or 'resize'
   const [dragStart, setDragStart] = useState(null);
   const [originalBox, setOriginalBox] = useState(null);
+  const [hideBoxes, setHideBoxes] = useState(false);
 
   useEffect(() => {
     fetch(`${API_BASE}/api/dataset`)
@@ -110,19 +111,25 @@ function App() {
         setCurrentIndex(index);
         setImageData(data);
         
+        // Normalize treatment values to lowercase
+        const normalizedObjects = (data.objects || []).map(obj => ({
+          ...obj,
+          treatment: (obj.treatment || 'none').toLowerCase()
+        }));
+        
         // Check if only one tooth - auto create box in center
-        if (data.objects && data.objects.length === 1) {
-          const singleBox = data.objects[0];
+        if (normalizedObjects && normalizedObjects.length === 1) {
+          const singleBox = normalizedObjects[0];
           // If box is empty (all zeros), create center box
           if (singleBox.x1 === 0 && singleBox.y1 === 0 && singleBox.x2 === 0 && singleBox.y2 === 0) {
             const centerBox = {
               ...singleBox,
-              x1: 462,
-              y1: 462,
-              x2: 562,
-              y2: 562,
-              wd: 100,
-              ht: 100,
+              x1: 384,
+              y1: 256,
+              x2: 640,
+              y2: 768,
+              wd: 256,
+              ht: 512,
               tooth: singleBox.tooth || 'unknown',
               treatment: singleBox.treatment || 'none',
               diagnosis: singleBox.diagnosis || ''
@@ -131,12 +138,12 @@ function App() {
             setSelectedBox(0);
             setHasChanges(true);
           } else {
-            setBoxes(data.objects);
+            setBoxes(normalizedObjects);
             setSelectedBox(0);
           }
         } else {
-          setBoxes(data.objects || []);
-          setSelectedBox(data.objects && data.objects.length > 0 ? 0 : null);
+          setBoxes(normalizedObjects);
+          setSelectedBox(normalizedObjects.length > 0 ? 0 : null);
         }
         
         setHasChanges(false);
@@ -382,41 +389,44 @@ function App() {
       
       ctx.drawImage(img, 0, 0);
       
-      boxes.forEach((box, idx) => {
-        ctx.strokeStyle = getBoxColor(box);
-        ctx.lineWidth = 3;
-        
-        if (box.treatment && box.treatment !== 'none') {
-          ctx.setLineDash([15, 5, 5, 5]);
-        } else {
-          ctx.setLineDash([]);
-        }
-        
-        ctx.strokeRect(box.x1, box.y1, box.x2 - box.x1, box.y2 - box.y1);
-        
-        ctx.setLineDash([]);
-        
-        // Draw resize handles for selected box
-        if (idx === selectedBox) {
-          ctx.strokeStyle = '#ffffff';
-          ctx.setLineDash([3, 3]);
-          ctx.strokeRect(box.x1 - 3, box.y1 - 3, box.x2 - box.x1 + 6, box.y2 - box.y1 + 6);
+      // Draw boxes only if not hidden
+      if (!hideBoxes) {
+        boxes.forEach((box, idx) => {
+          ctx.strokeStyle = getBoxColor(box);
+          ctx.lineWidth = 3;
+          
+          if (box.treatment && box.treatment.toLowerCase() !== 'none') {
+            ctx.setLineDash([15, 5, 5, 5]);
+          } else {
+            ctx.setLineDash([]);
+          }
+          
+          ctx.strokeRect(box.x1, box.y1, box.x2 - box.x1, box.y2 - box.y1);
+          
           ctx.setLineDash([]);
           
-          // Draw resize handles
-          ctx.fillStyle = '#ffffff';
-          const handleSize = 8;
-          const handles = [
-            [box.x1 - handleSize/2, box.y1 - handleSize/2],
-            [box.x2 - handleSize/2, box.y1 - handleSize/2],
-            [box.x1 - handleSize/2, box.y2 - handleSize/2],
-            [box.x2 - handleSize/2, box.y2 - handleSize/2]
-          ];
-          handles.forEach(([hx, hy]) => {
-            ctx.fillRect(hx, hy, handleSize, handleSize);
-          });
-        }
-      });
+          // Draw resize handles for selected box
+          if (idx === selectedBox) {
+            ctx.strokeStyle = '#ffffff';
+            ctx.setLineDash([3, 3]);
+            ctx.strokeRect(box.x1 - 3, box.y1 - 3, box.x2 - box.x1 + 6, box.y2 - box.y1 + 6);
+            ctx.setLineDash([]);
+            
+            // Draw resize handles
+            ctx.fillStyle = '#ffffff';
+            const handleSize = 8;
+            const handles = [
+              [box.x1 - handleSize/2, box.y1 - handleSize/2],
+              [box.x2 - handleSize/2, box.y1 - handleSize/2],
+              [box.x1 - handleSize/2, box.y2 - handleSize/2],
+              [box.x2 - handleSize/2, box.y2 - handleSize/2]
+            ];
+            handles.forEach(([hx, hy]) => {
+              ctx.fillRect(hx, hy, handleSize, handleSize);
+            });
+          }
+        });
+      }
       
       if (currentBox) {
         ctx.strokeStyle = '#00ff00';
@@ -433,7 +443,7 @@ function App() {
     };
     
     img.src = `${API_BASE}/images/${currentImage}`;
-  }, [currentImage, boxes, selectedBox, currentBox, scale]);
+  }, [currentImage, boxes, selectedBox, currentBox, scale, hideBoxes]);
 
   if (loading && !currentImage) {
     return <div className="loading">Loading dataset...</div>;
@@ -448,6 +458,15 @@ function App() {
             <button onClick={handleZoomOut} className="zoom-btn">−</button>
             <span className="zoom-level">{Math.round(zoomLevel * 100)}%</span>
             <button onClick={handleZoomIn} className="zoom-btn">+</button>
+          </div>
+          <div className="toggle-container">
+            <span className="toggle-label">Show Boxes</span>
+            <button 
+              className={`toggle-switch ${!hideBoxes ? 'active' : ''}`}
+              onClick={() => setHideBoxes(!hideBoxes)}
+            >
+              <span className="toggle-slider"></span>
+            </button>
           </div>
           {hasChanges && <span className="unsaved">● Unsaved changes</span>}
           {saving && <span className="saving">Saving...</span>}
