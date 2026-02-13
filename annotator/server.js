@@ -8,12 +8,22 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 
 app.use(cors());
 app.use(express.json());
 
-const DATASET_DIR = path.join(__dirname, '..', 'dataset');
+// Check if dist folder exists (production build)
+const distPath = path.join(__dirname, 'dist');
+const isProduction = fs.existsSync(distPath);
+
+// Dataset directory - check both locations (parent for dev, local for Docker)
+let DATASET_DIR = path.join(__dirname, '..', 'dataset');
+if (!fs.existsSync(DATASET_DIR)) {
+  // Try local dataset folder (for Docker)
+  DATASET_DIR = path.join(__dirname, 'dataset');
+}
+
 const DATASET_JSON = path.join(DATASET_DIR, 'dataset.json');
 
 function getBackupPath(index) {
@@ -62,14 +72,7 @@ app.get('/api/image/:filename', (req, res) => {
       return res.status(404).json({ error: 'Image not found' });
     }
     
-    const filteredObjects = imageData.objects.filter(obj => 
-      !(obj.x1 === 0 && obj.y1 === 0 && obj.x2 === 0 && obj.y2 === 0)
-    );
-    
-    res.json({
-      ...imageData,
-      objects: filteredObjects
-    });
+    res.json(imageData);
   } catch (error) {
     res.status(500).json({ error: error.message });
   }
@@ -96,8 +99,24 @@ app.post('/api/save/:filename', (req, res) => {
   }
 });
 
+// Serve images from dataset
 app.use('/images', express.static(DATASET_DIR));
+
+// Serve static files in production
+if (isProduction) {
+  app.use(express.static(distPath));
+  
+  // Handle client-side routing
+  app.get('*', (req, res) => {
+    res.sendFile(path.join(distPath, 'index.html'));
+  });
+}
 
 app.listen(PORT, () => {
   console.log(`Server running on http://localhost:${PORT}`);
+  if (isProduction) {
+    console.log('Production mode: Serving static files from dist/');
+  } else {
+    console.log('Development mode: Run npm run dev for frontend');
+  }
 });

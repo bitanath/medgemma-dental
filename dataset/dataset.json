@@ -54400,12 +54400,12 @@
     "objects": [
       {
         "object_id": "item-1770982356622_unknown_0",
-        "x1": 473,
-        "y1": 128,
-        "x2": 941,
-        "y2": 557,
+        "x1": 275,
+        "y1": 207,
+        "x2": 743,
+        "y2": 636,
         "wd": 468,
-        "ht": 428,
+        "ht": 429,
         "tooth": "lower_left_third_molar",
         "treatment": "extraction",
         "diagnosis": "Impacted wisdom tooth with associated periapical changes"
@@ -54421,12 +54421,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-4242409778_lower_right_molar_individual",
-        "wd": 256,
-        "ht": 512,
-        "x1": 384,
-        "x2": 640,
-        "y1": 256,
-        "y2": 768
+        "wd": 491,
+        "ht": 620,
+        "x1": 168,
+        "x2": 659,
+        "y1": 276,
+        "y2": 896
       }
     ]
   },
@@ -54439,12 +54439,12 @@
         "treatment": "extraction",
         "tooth": "lower_right_first_molar",
         "object_id": "item-2875419890_lower_right_molar_individual",
-        "wd": 256,
-        "ht": 512,
-        "x1": 384,
-        "x2": 640,
-        "y1": 256,
-        "y2": 768
+        "wd": 319,
+        "ht": 588,
+        "x1": 447,
+        "x2": 766,
+        "y1": 294,
+        "y2": 882
       }
     ]
   },
@@ -54495,10 +54495,10 @@
         "object_id": "item-1883710531_lower_left_middle_molar_individual",
         "wd": 256,
         "ht": 512,
-        "x1": 384,
-        "x2": 640,
-        "y1": 256,
-        "y2": 768
+        "x1": 294,
+        "x2": 550,
+        "y1": 332,
+        "y2": 844
       }
     ]
   },

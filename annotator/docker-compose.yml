@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  annotator:
+    build: .
+    ports:
+      - "3001:3001"
+    volumes:
+      # Mount your local dataset folder
+      - ./dataset:/app/dataset
+    environment:
+      - PORT=3001
+    restart: unless-stopped

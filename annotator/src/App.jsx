@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import './App.css';
 
-const API_BASE = 'http://localhost:3001';
+const API_BASE = '';
 const AUTOSAVE_INTERVAL = 30000;
 
 const TOOTH_TYPES = [
@@ -36,6 +36,61 @@ function getBoxColor(box) {
   }
   const toothIndex = TOOTH_TYPES.indexOf(box.tooth);
   return TOOTH_COLORS[toothIndex >= 0 ? toothIndex : TOOTH_COLORS.length - 1];
+}
+
+// Lazy thumbnail component - only loads image when visible
+function LazyThumbnail({ img, idx, currentIndex, onClick }) {
+  const [isVisible, setIsVisible] = useState(false);
+  const [isLoaded, setIsLoaded] = useState(false);
+  const thumbnailRef = useRef(null);
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setIsVisible(true);
+          observer.disconnect();
+        }
+      },
+      {
+        rootMargin: '100px', // Start loading 100px before visible
+        threshold: 0
+      }
+    );
+
+    if (thumbnailRef.current) {
+      observer.observe(thumbnailRef.current);
+    }
+
+    return () => observer.disconnect();
+  }, []);
+
+  return (
+    <div
+      ref={thumbnailRef}
+      className={`thumbnail ${idx === currentIndex ? 'active' : ''}`}
+      onClick={onClick}
+    >
+      {isVisible ? (
+        <>
+          {!isLoaded && <div className="thumbnail-placeholder">Loading...</div>}
+          <img 
+            src={`${API_BASE}/images/${img.file}`} 
+            alt={img.file} 
+            loading="lazy"
+            onLoad={() => setIsLoaded(true)}
+            style={{ opacity: isLoaded ? 1 : 0 }}
+          />
+        </>
+      ) : (
+        <div className="thumbnail-placeholder">Loading...</div>
+      )}
+      <div className="thumbnail-info">
+        <span className="filename">{img.file}</span>
+        <span className="count">{img.objectCount} boxes</span>
+      </div>
+    </div>
+  );
 }
 
 function App() {
@@ -499,20 +554,16 @@ function App() {
           
           <div className="thumbnail-list">
             {images.map((img, idx) => (
-              <div
+              <LazyThumbnail
                 key={img.file}
-                className={`thumbnail ${idx === currentIndex ? 'active' : ''}`}
+                img={img}
+                idx={idx}
+                currentIndex={currentIndex}
                 onClick={() => {
                   if (hasChanges) handleSave();
                   loadImage(img.file, idx);
                 }}
-              >
-                <img src={`${API_BASE}/images/${img.file}`} alt={img.file} loading="lazy" />
-                <div className="thumbnail-info">
-                  <span className="filename">{img.file}</span>
-                  <span className="count">{img.objectCount} boxes</span>
-                </div>
-              </div>
+              />
             ))}
           </div>
         </div>
