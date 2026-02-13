@@ -1,0 +1,7 @@
+venv/
+node_modules/
+.vite/
+*.jpg
+.DS_Store
+*.pdf
+*.glb
