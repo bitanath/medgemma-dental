@@ -31,6 +31,13 @@ body {
   font-weight: 600;
 }
 
+.filename-display {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #aaa;
+  margin-left: 10px;
+}
+
 .status-bar {
   display: flex;
   align-items: center;
@@ -253,7 +260,8 @@ canvas {
 }
 
 .form-group select,
-.form-group input {
+.form-group input,
+.form-group textarea {
   width: 100%;
   padding: 8px;
   background: #3d3d3d;
@@ -261,10 +269,18 @@ canvas {
   border-radius: 4px;
   color: #fff;
   font-size: 0.9rem;
+  font-family: inherit;
+  resize: vertical;
+}
+
+.form-group textarea {
+  min-height: 100px;
+  resize: vertical;
 }
 
 .form-group select:focus,
-.form-group input:focus {
+.form-group input:focus,
+.form-group textarea:focus {
   outline: none;
   border-color: #4caf50;
 }

@@ -442,7 +442,7 @@ function App() {
   return (
     <div className="app">
       <div className="header">
-        <h1>Custom X-Ray Annotator</h1>
+        <h1>Custom X-Ray Annotator {currentImage && <span className="filename-display">- &nbsp; &nbsp;{currentImage}</span>}</h1>
         <div className="status-bar">
           <div className="zoom-controls">
             <button onClick={handleZoomOut} className="zoom-btn">−</button>
@@ -482,7 +482,7 @@ function App() {
             {images.map((img, idx) => (
               <div
                 key={img.file}
-                className={`thumbnail ${idx === currentBox ? 'active' : ''}`}
+                className={`thumbnail ${idx === currentIndex ? 'active' : ''}`}
                 onClick={() => {
                   if (hasChanges) handleSave();
                   loadImage(img.file, idx);
@@ -538,10 +538,10 @@ function App() {
                 </div>
                 <div className="form-group">
                   <label>Diagnosis:</label>
-                  <input 
-                    type="text"
+                  <textarea
                     value={boxes[selectedBox].diagnosis}
                     onChange={(e) => updateBox(selectedBox, { diagnosis: e.target.value })}
+                    rows={6}
                   />
                 </div>
                 <button onClick={() => deleteBox(selectedBox)} className="delete-btn">
