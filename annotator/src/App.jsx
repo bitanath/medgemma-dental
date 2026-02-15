@@ -105,7 +105,7 @@ function App() {
   
   const canvasRef = useRef(null);
   const [baseScale, setBaseScale] = useState(1);
-  const [zoomLevel, setZoomLevel] = useState(1);
+  const [zoomLevel, setZoomLevel] = useState(1.56);
   const scale = baseScale * zoomLevel;
   const [isDrawing, setIsDrawing] = useState(false);
   const [startPos, setStartPos] = useState(null);
@@ -141,7 +141,7 @@ function App() {
 
   useEffect(() => {
     const handleKeyDown = (e) => {
-      if ((e.key === 'Delete' || e.key === 'Backspace') && selectedBox !== null) {
+      if ((e.key === 'Control' && e.key === 'Backspace') && selectedBox !== null) {
         e.preventDefault();
         deleteBox(selectedBox);
       }
