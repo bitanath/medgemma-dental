@@ -16,7 +16,7 @@ const TOOTH_COLORS = [
   '#D3D3D3',
 ];
 
-const TREATMENTS = ['none', 'extraction', 'restoration', 'replacement', 'rct', 'filling'];
+const TREATMENTS = ['none', 'extraction', 'restoration', 'replacement', 'rct'];
 
 function getBoxColor(box) {
   if (box.treatment && box.treatment.toLowerCase() !== 'none') {
@@ -93,7 +93,7 @@ function App() {
   
   const canvasRef = useRef(null);
   const [baseScale, setBaseScale] = useState(1);
-  const [zoomLevel, setZoomLevel] = useState(1.56);
+  const [zoomLevel, setZoomLevel] = useState(1);
   const scale = baseScale * zoomLevel;
   const [isDrawing, setIsDrawing] = useState(false);
   const [startPos, setStartPos] = useState(null);
@@ -191,7 +191,7 @@ function App() {
         }
         
         setHasChanges(false);
-        setZoomLevel(1);
+        setZoomLevel(1.35);
         setLoading(false);
       })
       .catch(err => {
