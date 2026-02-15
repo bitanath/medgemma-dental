@@ -5,27 +5,15 @@ const API_BASE = '';
 const AUTOSAVE_INTERVAL = 30000;
 
 const TOOTH_TYPES = [
-  'upper_right_central_incisor', 'upper_right_lateral_incisor', 'upper_right_canine',
-  'upper_right_first_premolar', 'upper_right_second_premolar', 'upper_right_first_molar',
-  'upper_right_second_molar', 'upper_right_third_molar',
-  'upper_left_central_incisor', 'upper_left_lateral_incisor', 'upper_left_canine',
-  'upper_left_first_premolar', 'upper_left_second_premolar', 'upper_left_first_molar',
-  'upper_left_second_molar', 'upper_left_third_molar',
-  'lower_right_central_incisor', 'lower_right_lateral_incisor', 'lower_right_canine',
-  'lower_right_first_premolar', 'lower_right_second_premolar', 'lower_right_first_molar',
-  'lower_right_second_molar', 'lower_right_third_molar',
-  'lower_left_central_incisor', 'lower_left_lateral_incisor', 'lower_left_canine',
-  'lower_left_first_premolar', 'lower_left_second_premolar', 'lower_left_first_molar',
-  'lower_left_second_molar', 'lower_left_third_molar',
+  'central_incisor', 'lateral_incisor', 'canine',
+  'first_premolar', 'second_premolar', 'first_molar',
+  'second_molar', 'third_molar',
   'unknown'
 ];
 
 const TOOTH_COLORS = [
-  '#00FF00', '#0000FF', '#FFFF00', '#FF00FF', '#00FFFF', '#FFA500', '#800080', '#b2eaa1',
-  '#008000', '#000080', '#808000', '#800000', '#008080', '#C0C0C0', '#808080', '#FF69B4',
-  '#4B0082', '#FFD700', '#32CD32', '#FF6347', '#40E0D0', '#EE82EE', '#F5DEB3', '#D2691E',
-  '#00CED1', '#9400D3', '#FF1493', '#7FFF00', '#B8860B', '#9932CC', '#fa936d', '#20B2AA',
-  '#1f1e11',
+  '#90EE90', '#ADD8E6', '#FAFAD2', '#DDA0DD', '#B0E0E6', '#FFDAB9', '#D8BFD8', '#C1E1C1',
+  '#D3D3D3',
 ];
 
 const TREATMENTS = ['none', 'extraction', 'restoration', 'replacement', 'rct', 'filling'];
@@ -116,6 +104,7 @@ function App() {
   const [dragStart, setDragStart] = useState(null);
   const [originalBox, setOriginalBox] = useState(null);
   const [hideBoxes, setHideBoxes] = useState(false);
+  const [showTreatmentOnly, setShowTreatmentOnly] = useState(true);
 
   useEffect(() => {
     fetch(`${API_BASE}/api/dataset`)
@@ -447,6 +436,10 @@ function App() {
       // Draw boxes only if not hidden
       if (!hideBoxes) {
         boxes.forEach((box, idx) => {
+          // Skip non-treatment boxes if showTreatmentOnly is enabled
+          if (showTreatmentOnly && (!box.treatment || box.treatment.toLowerCase() === 'none')) {
+            return;
+          }
           ctx.strokeStyle = getBoxColor(box);
           ctx.lineWidth = 3;
           
@@ -498,7 +491,7 @@ function App() {
     };
     
     img.src = `${API_BASE}/images/${currentImage}`;
-  }, [currentImage, boxes, selectedBox, currentBox, scale, hideBoxes]);
+  }, [currentImage, boxes, selectedBox, currentBox, scale, hideBoxes, showTreatmentOnly]);
 
   if (loading && !currentImage) {
     return <div className="loading">Loading dataset...</div>;
@@ -519,6 +512,15 @@ function App() {
             <button 
               className={`toggle-switch ${!hideBoxes ? 'active' : ''}`}
               onClick={() => setHideBoxes(!hideBoxes)}
+            >
+              <span className="toggle-slider"></span>
+            </button>
+          </div>
+          <div className="toggle-container">
+            <span className="toggle-label">Only Treatment</span>
+            <button 
+              className={`toggle-switch ${showTreatmentOnly ? 'active' : ''}`}
+              onClick={() => setShowTreatmentOnly(!showTreatmentOnly)}
             >
               <span className="toggle-slider"></span>
             </button>

@@ -58838,12 +58838,12 @@
         "treatment": "restoration",
         "tooth": "upper_left_central_incisor",
         "object_id": "item-3149535928_upper_left_central_incisor_individual",
-        "wd": 249,
-        "ht": 807,
-        "x1": 353,
-        "x2": 602,
+        "wd": 312,
+        "ht": 826,
+        "x1": 341,
+        "x2": 653,
         "y1": 6,
-        "y2": 813
+        "y2": 832
       },
       {
         "object_id": "item-1771137508362_unknown_1",
