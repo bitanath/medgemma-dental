@@ -18,10 +18,10 @@ const distPath = path.join(__dirname, 'dist');
 const isProduction = fs.existsSync(distPath);
 
 // Dataset directory - check both locations (parent for dev, local for Docker)
-let DATASET_DIR = path.join(__dirname, '..', 'dataset');
+let DATASET_DIR = path.join(__dirname, '..', 'dataset_all');
 if (!fs.existsSync(DATASET_DIR)) {
   // Try local dataset folder (for Docker)
-  DATASET_DIR = path.join(__dirname, 'dataset');
+  DATASET_DIR = path.join(__dirname, 'dataset_all');
 }
 
 const DATASET_JSON = path.join(DATASET_DIR, 'dataset.json');

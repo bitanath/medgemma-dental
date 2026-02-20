@@ -3,5 +3,10 @@ node_modules/
 .vite/
 *.jpg
 .DS_Store
+__MACOSX/
+.AppleDouble
+.LSOverride
+Icon[]
 *.pdf
 *.glb
+*.safetensors

@@ -1,0 +1,1071 @@
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img15_tooth_00001.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img16_tooth_00002.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img16_tooth_00003.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img16_tooth_00004.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img16_tooth_00005.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img16_tooth_00006.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img16_tooth_00007.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img16_tooth_00008.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img17_tooth_00009.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img17_tooth_00010.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img18_tooth_00011.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img18_tooth_00012.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img18_tooth_00013.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Severe attrition, pulp chamber close to surface,", "filename": "panoramic_img19_tooth_00014.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Secondary caries under existing restoration", "filename": "panoramic_img19_tooth_00015.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img19_tooth_00016.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Fractured/Chipped edge", "filename": "panoramic_img21_tooth_00017.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Deciduous canine needs extraction", "filename": "panoramic_img21_tooth_00018.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Deep caries approaching pulp on deciduous molar", "filename": "panoramic_img21_tooth_00019.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp on deciduous molar, roots not resorbed", "filename": "panoramic_img21_tooth_00020.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img21_tooth_00021.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img21_tooth_00022.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img21_tooth_00023.jpg"}
+{"tooth": "lateral_incisor", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img22_tooth_00024.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img24_tooth_00025.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img24_tooth_00026.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Chipped incisal edge", "filename": "panoramic_img24_tooth_00027.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Chipped incisal edge", "filename": "panoramic_img24_tooth_00028.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Chipped incisal edge", "filename": "panoramic_img24_tooth_00029.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img24_tooth_00030.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Occlusal caries", "filename": "panoramic_img25_tooth_00031.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img26_tooth_00032.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Faulty restoration, secondary caries around exisiting restoration", "filename": "panoramic_img26_tooth_00033.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Grossly decayed with total loss of coronal tooth structure", "filename": "panoramic_img26_tooth_00034.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Caries away from pulp", "filename": "panoramic_img26_tooth_00035.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img27_tooth_00036.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img27_tooth_00037.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img27_tooth_00038.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img27_tooth_00039.jpg"}
+{"tooth": "lateral_incisor", "treatment": "extraction", "diagnosis": "Root stump with no remaining coronal structure", "filename": "panoramic_img27_tooth_00040.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img27_tooth_00041.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Caries not involving pulp", "filename": "panoramic_img27_tooth_00042.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img27_tooth_00043.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img29_tooth_00044.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Secondary caries under existing restoration", "filename": "panoramic_img29_tooth_00045.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img29_tooth_00046.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Chipped/Fractured incisal edge", "filename": "panoramic_img31_tooth_00047.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img31_tooth_00048.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img31_tooth_00049.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img31_tooth_00050.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Deep caries on deciduous molar", "filename": "panoramic_img31_tooth_00051.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Root stump", "filename": "panoramic_img32_tooth_00052.jpg"}
+{"tooth": "central_incisor", "treatment": "extraction", "diagnosis": "Root stump", "filename": "panoramic_img33_tooth_00053.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img33_tooth_00054.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img33_tooth_00055.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Deep Proximal caries approaching pulp", "filename": "panoramic_img33_tooth_00056.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img33_tooth_00057.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img33_tooth_00058.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img34_tooth_00059.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Secondary caries under existing restoration", "filename": "panoramic_img34_tooth_00060.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed, Root stump with total loss of coronal tooth structure", "filename": "panoramic_img34_tooth_00061.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Small caries away from pulp", "filename": "panoramic_img34_tooth_00062.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed with no viable tooth structure", "filename": "panoramic_img34_tooth_00063.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Small caries away from pulp", "filename": "panoramic_img34_tooth_00064.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Small caries away from pulp", "filename": "panoramic_img34_tooth_00065.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Small caries away from pulp", "filename": "panoramic_img34_tooth_00066.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Small caries away from pulp", "filename": "panoramic_img34_tooth_00067.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img34_tooth_00068.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img34_tooth_00069.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img35_tooth_00070.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img35_tooth_00071.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img35_tooth_00072.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img35_tooth_00073.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img35_tooth_00074.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Grossly decayed", "filename": "panoramic_img36_tooth_00075.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed", "filename": "panoramic_img36_tooth_00076.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Grossly decayed with significant loos of structure", "filename": "panoramic_img36_tooth_00077.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img36_tooth_00078.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img36_tooth_00079.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img36_tooth_00080.jpg"}
+{"tooth": "lateral_incisor", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img36_tooth_00081.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img36_tooth_00082.jpg"}
+{"tooth": "unknown", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img36_tooth_00083.jpg"}
+{"tooth": "unknown", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img36_tooth_00084.jpg"}
+{"tooth": "unknown", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img36_tooth_00085.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Secondary caries underneath existing restoration", "filename": "panoramic_img37_tooth_00086.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Secondary caries underneath existing restoration", "filename": "panoramic_img37_tooth_00087.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Chipped/ worn incisal edge", "filename": "panoramic_img38_tooth_00088.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img38_tooth_00089.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img38_tooth_00090.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img38_tooth_00091.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img38_tooth_00092.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img38_tooth_00093.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img38_tooth_00094.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img38_tooth_00095.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Secondary caries underneath existing restoration", "filename": "panoramic_img39_tooth_00096.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Secondary caries underneath existing restoration", "filename": "panoramic_img40_tooth_00097.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Chipped/fractured coronal structure", "filename": "panoramic_img41_tooth_00098.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img41_tooth_00099.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img42_tooth_00100.jpg"}
+{"tooth": "central_incisor", "treatment": "rct", "diagnosis": "Fractured coronal structure", "filename": "panoramic_img42_tooth_00101.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Deep caries very close to pulp", "filename": "panoramic_img42_tooth_00102.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img42_tooth_00103.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img42_tooth_00104.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img42_tooth_00105.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp and a large periapical lesion", "filename": "panoramic_img42_tooth_00106.jpg"}
+{"tooth": "central_incisor", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img43_tooth_00107.jpg"}
+{"tooth": "lateral_incisor", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img43_tooth_00108.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img43_tooth_00109.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Reatined Deciduous canine with resorbed roots", "filename": "panoramic_img44_tooth_00110.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img44_tooth_00111.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img44_tooth_00112.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img44_tooth_00113.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img44_tooth_00114.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Deciduous first molar to be extracted", "filename": "panoramic_img44_tooth_00115.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img45_tooth_00116.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img45_tooth_00117.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Secondary caries under existing restoration", "filename": "panoramic_img46_tooth_00118.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img48_tooth_00119.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img48_tooth_00120.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img49_tooth_00121.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img49_tooth_00122.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img49_tooth_00123.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img49_tooth_00124.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img51_tooth_00125.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img51_tooth_00126.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Third molar extraction needed", "filename": "panoramic_img51_tooth_00127.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img51_tooth_00128.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Secondary caries involving pulp under existing restoration", "filename": "panoramic_img51_tooth_00129.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp and significant loss of coronal structure", "filename": "panoramic_img51_tooth_00130.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img51_tooth_00131.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img51_tooth_00132.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img51_tooth_00133.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img52_tooth_00134.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img52_tooth_00135.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs restoration and a crown", "filename": "panoramic_img52_tooth_00136.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img52_tooth_00137.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img53_tooth_00138.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img54_tooth_00139.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar with deep caries", "filename": "panoramic_img54_tooth_00140.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving pulp", "filename": "panoramic_img54_tooth_00141.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img54_tooth_00142.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Grossly decayed root canal treated tooth with significant loss of coronal tooth structure", "filename": "panoramic_img55_tooth_00143.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img55_tooth_00144.jpg"}
+{"tooth": "unknown", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img55_tooth_00145.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img59_tooth_00146.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img60_tooth_00147.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img60_tooth_00148.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img60_tooth_00149.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img60_tooth_00150.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img60_tooth_00151.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img60_tooth_00152.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Severe attrition/wear down of occlusal surface", "filename": "panoramic_img60_tooth_00153.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img60_tooth_00154.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img60_tooth_00155.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img61_tooth_00156.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img61_tooth_00157.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth", "filename": "panoramic_img61_tooth_00158.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img61_tooth_00159.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed", "filename": "panoramic_img61_tooth_00160.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Impacted permanent canine tooth", "filename": "panoramic_img61_tooth_00161.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img62_tooth_00162.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img63_tooth_00163.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img63_tooth_00164.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img63_tooth_00165.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img63_tooth_00166.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp under restoration", "filename": "panoramic_img64_tooth_00167.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img64_tooth_00168.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img64_tooth_00169.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img65_tooth_00170.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp under restoration", "filename": "panoramic_img65_tooth_00171.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img65_tooth_00172.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from the pulp", "filename": "panoramic_img66_tooth_00173.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Proximal caries away from the pulp", "filename": "panoramic_img66_tooth_00174.jpg"}
+{"tooth": "central_incisor", "treatment": "rct", "diagnosis": "Large periapical lesion", "filename": "panoramic_img66_tooth_00175.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Proximal caries approaching pulp", "filename": "panoramic_img67_tooth_00176.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img69_tooth_00177.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img69_tooth_00178.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img70_tooth_00179.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img70_tooth_00180.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img71_tooth_00181.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure of previously treated root canal tooth", "filename": "panoramic_img71_tooth_00182.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img71_tooth_00183.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img71_tooth_00184.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img71_tooth_00185.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img73_tooth_00186.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Caries away from pulp", "filename": "panoramic_img73_tooth_00187.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Faulty rct with incomplete obturation and periapical lesion", "filename": "panoramic_img73_tooth_00188.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img73_tooth_00189.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img73_tooth_00190.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img75_tooth_00191.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img75_tooth_00192.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img76_tooth_00193.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "significant loss of coronal tooth structure", "filename": "panoramic_img76_tooth_00194.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img76_tooth_00195.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img78_tooth_00196.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img78_tooth_00197.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img78_tooth_00198.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img78_tooth_00199.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img78_tooth_00200.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img78_tooth_00201.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from the pulp", "filename": "panoramic_img79_tooth_00202.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from the pulp", "filename": "panoramic_img79_tooth_00203.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from the pulp", "filename": "panoramic_img79_tooth_00204.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Deciduous canine to be extracted", "filename": "panoramic_img80_tooth_00205.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img80_tooth_00206.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img80_tooth_00207.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img80_tooth_00208.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img80_tooth_00209.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img81_tooth_00210.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img81_tooth_00211.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img81_tooth_00212.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img82_tooth_00213.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Deep caries involving pulp, crown placed on vital tooth, secondary caries present", "filename": "panoramic_img82_tooth_00214.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img82_tooth_00215.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp, crown placed on vital tooth", "filename": "panoramic_img82_tooth_00216.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img82_tooth_00217.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Proximal caries away from the pulp", "filename": "panoramic_img83_tooth_00218.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img83_tooth_00219.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img84_tooth_00220.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Small caries on proximal surface", "filename": "panoramic_img84_tooth_00221.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img84_tooth_00222.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Attrition of incisal edge", "filename": "panoramic_img85_tooth_00223.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Occlusal surface attrition/ wear, pulp away from surface", "filename": "panoramic_img85_tooth_00224.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Proximal caries away from the pulp", "filename": "panoramic_img85_tooth_00225.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries away from the pulp", "filename": "panoramic_img86_tooth_00226.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img86_tooth_00227.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Faulty rct done, obturation not till apical end, periapical lesion present, need re rct/re treatment", "filename": "panoramic_img86_tooth_00228.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img86_tooth_00229.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp, existing restoration touching and involving pulp", "filename": "panoramic_img86_tooth_00230.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img87_tooth_00231.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img87_tooth_00232.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img87_tooth_00233.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img87_tooth_00234.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img88_tooth_00235.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img90_tooth_00236.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Periapical lesion on rct tooth, needs re rct", "filename": "panoramic_img90_tooth_00237.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "incisal edge chip/fracture", "filename": "panoramic_img90_tooth_00238.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Deep restoration involving pulp", "filename": "panoramic_img90_tooth_00239.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Small caries not involving pulp", "filename": "panoramic_img91_tooth_00240.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Small caries not involving pulp", "filename": "panoramic_img91_tooth_00241.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Small caries not involving pulp", "filename": "panoramic_img91_tooth_00242.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Deep caries approaching  pulp", "filename": "panoramic_img92_tooth_00243.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img92_tooth_00244.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img92_tooth_00245.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img92_tooth_00246.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Small proximal caries away from pulp", "filename": "panoramic_img93_tooth_00247.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar with deep caries involving pulp", "filename": "panoramic_img94_tooth_00248.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img94_tooth_00249.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img94_tooth_00250.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img94_tooth_00251.jpg"}
+{"tooth": "lateral_incisor", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img95_tooth_00252.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img95_tooth_00253.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img96_tooth_00254.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img96_tooth_00255.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img96_tooth_00256.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img96_tooth_00257.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img96_tooth_00258.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Grossly decayed tooth with total loss of coronal structure", "filename": "panoramic_img96_tooth_00259.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img96_tooth_00260.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img96_tooth_00261.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img97_tooth_00262.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img97_tooth_00263.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img97_tooth_00264.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img97_tooth_00265.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img98_tooth_00266.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img98_tooth_00267.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img99_tooth_00268.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img99_tooth_00269.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img99_tooth_00270.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img99_tooth_00271.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img100_tooth_00272.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img100_tooth_00273.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img100_tooth_00274.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img100_tooth_00275.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img102_tooth_00276.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Small proximal caries away from pulp", "filename": "panoramic_img102_tooth_00277.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Caries away from pulp", "filename": "panoramic_img102_tooth_00278.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img103_tooth_00279.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img105_tooth_00280.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Faulty rct with incomplete obturation, needs re rct/re treatment", "filename": "panoramic_img105_tooth_00281.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img106_tooth_00282.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img107_tooth_00283.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img109_tooth_00284.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img109_tooth_00285.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted molar", "filename": "panoramic_img109_tooth_00286.jpg"}
+{"tooth": "lateral_incisor", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img110_tooth_00287.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "rct tooth needs to be restored with crown", "filename": "panoramic_img110_tooth_00288.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img111_tooth_00289.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img111_tooth_00290.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Grossly damaged, poor remaining coronal tooth structure", "filename": "panoramic_img111_tooth_00291.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img111_tooth_00292.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img111_tooth_00293.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "proximal caries", "filename": "panoramic_img112_tooth_00294.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img113_tooth_00295.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep restoration touching and involving pulp", "filename": "panoramic_img115_tooth_00296.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img116_tooth_00297.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img116_tooth_00298.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img116_tooth_00299.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img116_tooth_00300.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img116_tooth_00301.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img116_tooth_00302.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img117_tooth_00303.jpg"}
+{"tooth": "lateral_incisor", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img117_tooth_00304.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep caries approaching and very close to pulp", "filename": "panoramic_img118_tooth_00305.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img118_tooth_00306.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img118_tooth_00307.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img118_tooth_00308.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img120_tooth_00309.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Deep caries, faulty restoration, pulp involved", "filename": "panoramic_img120_tooth_00310.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img120_tooth_00311.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Occlusal caries and attrition, pulp close to surface", "filename": "panoramic_img121_tooth_00312.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img122_tooth_00313.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img122_tooth_00314.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img122_tooth_00315.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img122_tooth_00316.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img122_tooth_00317.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img122_tooth_00318.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img122_tooth_00319.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img123_tooth_00320.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img123_tooth_00321.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img123_tooth_00322.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img123_tooth_00323.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img123_tooth_00324.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img124_tooth_00325.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img124_tooth_00326.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img124_tooth_00327.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img124_tooth_00328.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img125_tooth_00329.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img125_tooth_00330.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img125_tooth_00331.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Caries approaching pulp", "filename": "panoramic_img125_tooth_00332.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Secondary caries under existing proximal restoration", "filename": "panoramic_img126_tooth_00333.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Caries on cusp tip away from pulp", "filename": "panoramic_img126_tooth_00334.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img126_tooth_00335.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img126_tooth_00336.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img126_tooth_00337.jpg"}
+{"tooth": "third_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img127_tooth_00338.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Faulty rct with incomplete obturation, needs re rct/re treatment", "filename": "panoramic_img127_tooth_00339.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img127_tooth_00340.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Secondary caries under existing restoration", "filename": "panoramic_img128_tooth_00341.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Large and deep restoration touching pulp", "filename": "panoramic_img128_tooth_00342.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Proximal caries involving pulp, periapical lesion present", "filename": "panoramic_img128_tooth_00343.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img129_tooth_00344.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Grossly decayed root canal treated tooth with significant loss of coronal tooth structure", "filename": "panoramic_img129_tooth_00345.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Grossly decayed tooth with significant loss of coronal tooth structure", "filename": "panoramic_img129_tooth_00346.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img130_tooth_00347.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep proximal caries", "filename": "panoramic_img132_tooth_00348.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep restoration involving and touching pulp", "filename": "panoramic_img132_tooth_00349.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Secondary caries under existing proximal restoration", "filename": "panoramic_img133_tooth_00350.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Second premolar is healthy", "filename": "panoramic_img133_tooth_00351.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img133_tooth_00352.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img134_tooth_00353.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "First premolar needs extraction", "filename": "panoramic_img134_tooth_00354.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img134_tooth_00355.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img134_tooth_00356.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img135_tooth_00357.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img135_tooth_00358.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img135_tooth_00359.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img135_tooth_00360.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Retained deciduous first molar with resorbed roots", "filename": "panoramic_img135_tooth_00361.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img135_tooth_00362.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img136_tooth_00363.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img136_tooth_00364.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img136_tooth_00365.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img136_tooth_00366.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img137_tooth_00367.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img137_tooth_00368.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img137_tooth_00369.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img137_tooth_00370.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Faulkty rct with incomplete obturation", "filename": "panoramic_img137_tooth_00371.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img137_tooth_00372.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries and a large restoration involving pulp", "filename": "panoramic_img137_tooth_00373.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img138_tooth_00374.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img138_tooth_00375.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img138_tooth_00376.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img141_tooth_00377.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img141_tooth_00378.jpg"}
+{"tooth": "third_molar", "treatment": "rct", "diagnosis": "Large restoration involving pulp", "filename": "panoramic_img142_tooth_00379.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img142_tooth_00380.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Fractured restoration needs rework", "filename": "panoramic_img142_tooth_00381.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Chipped and fractured restrotation needs rework", "filename": "panoramic_img142_tooth_00382.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Deep caries and restoration involving pulp", "filename": "panoramic_img142_tooth_00383.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img142_tooth_00384.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Extremely large restoration involving pulpm", "filename": "panoramic_img142_tooth_00385.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img142_tooth_00386.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Faulty rct with incomplete obturation", "filename": "panoramic_img142_tooth_00387.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img142_tooth_00388.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Deep restoration involving and touching pulp", "filename": "panoramic_img143_tooth_00389.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Secondary caries around existing restoration", "filename": "panoramic_img143_tooth_00390.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Proximal caries extremely close to pulp", "filename": "panoramic_img143_tooth_00391.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img144_tooth_00392.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Large and deep restoration involving pulp", "filename": "panoramic_img144_tooth_00393.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Faulty rct with incomplete obturation", "filename": "panoramic_img144_tooth_00394.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img145_tooth_00395.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img145_tooth_00396.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img146_tooth_00397.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Faulty rct with incomplete obturation, needs re rct/re treatment", "filename": "panoramic_img147_tooth_00398.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep restoration involving and touching pulp", "filename": "panoramic_img147_tooth_00399.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img149_tooth_00400.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img149_tooth_00401.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img151_tooth_00402.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img151_tooth_00403.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img151_tooth_00404.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img151_tooth_00405.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img152_tooth_00406.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img153_tooth_00407.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img153_tooth_00408.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img153_tooth_00409.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "caries away from pulp", "filename": "panoramic_img153_tooth_00410.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img154_tooth_00411.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img155_tooth_00412.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img155_tooth_00413.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img155_tooth_00414.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "periapical changes/lesion", "filename": "panoramic_img155_tooth_00415.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img155_tooth_00416.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img155_tooth_00417.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img155_tooth_00418.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img155_tooth_00419.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img156_tooth_00420.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img156_tooth_00421.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img157_tooth_00422.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Secondary caries around existing restoration", "filename": "panoramic_img157_tooth_00423.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img157_tooth_00424.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Deep restoration involving and touching pulp", "filename": "panoramic_img158_tooth_00425.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img158_tooth_00426.jpg"}
+{"tooth": "third_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img158_tooth_00427.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep secondary caries involving pulp under existing restoration", "filename": "panoramic_img159_tooth_00428.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep restoration involving and touching pulp", "filename": "panoramic_img159_tooth_00429.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img161_tooth_00430.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img161_tooth_00431.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img161_tooth_00432.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img161_tooth_00433.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted and grossly decayed", "filename": "panoramic_img162_tooth_00434.jpg"}
+{"tooth": "second_molar", "treatment": "replacement", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img162_tooth_00435.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img162_tooth_00436.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted and grossly decayed third molar", "filename": "panoramic_img162_tooth_00437.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img163_tooth_00438.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img163_tooth_00439.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img163_tooth_00440.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img164_tooth_00441.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img164_tooth_00442.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Secondary caries around existing restoration", "filename": "panoramic_img164_tooth_00443.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Secondary caries around existing restoration", "filename": "panoramic_img164_tooth_00444.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img165_tooth_00445.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img165_tooth_00446.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img165_tooth_00447.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img165_tooth_00448.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img166_tooth_00449.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img166_tooth_00450.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img166_tooth_00451.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img166_tooth_00452.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img166_tooth_00453.jpg"}
+{"tooth": "third_molar", "treatment": "rct", "diagnosis": "Deep restoration involving and touching pulp", "filename": "panoramic_img167_tooth_00454.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img167_tooth_00455.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep restoration involving and touching pulp", "filename": "panoramic_img167_tooth_00456.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Periapical lesion", "filename": "panoramic_img168_tooth_00457.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Attrtion/wear down of incisal edge", "filename": "panoramic_img169_tooth_00458.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Attrtion/wear down of incisal edge", "filename": "panoramic_img169_tooth_00459.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Severe bone loss", "filename": "panoramic_img169_tooth_00460.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Large periapical lesion suggestive of granuloma or cyst", "filename": "panoramic_img170_tooth_00461.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal cariesaway from pulp", "filename": "panoramic_img170_tooth_00462.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img173_tooth_00463.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img173_tooth_00464.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img173_tooth_00465.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img173_tooth_00466.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img174_tooth_00467.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img174_tooth_00468.jpg"}
+{"tooth": "lateral_incisor", "treatment": "extraction", "diagnosis": "Periapical lesion on root canal treated tooth", "filename": "panoramic_img175_tooth_00469.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img175_tooth_00470.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img175_tooth_00471.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img175_tooth_00472.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Resorbed roots, only coronal structure remaining", "filename": "panoramic_img175_tooth_00473.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp with associated periapical lesion", "filename": "panoramic_img175_tooth_00474.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp with associated periapical lesion", "filename": "panoramic_img175_tooth_00475.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img175_tooth_00476.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Large restoration involving and touching pulp", "filename": "panoramic_img176_tooth_00477.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img176_tooth_00478.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Faulty rct with incomplete obturation", "filename": "panoramic_img176_tooth_00479.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img176_tooth_00480.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Faulty rct with incomplete obturation", "filename": "panoramic_img176_tooth_00481.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img176_tooth_00482.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img178_tooth_00483.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img178_tooth_00484.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img178_tooth_00485.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img178_tooth_00486.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep restoration involving and touching pulp", "filename": "panoramic_img178_tooth_00487.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted and grossly decayed third molar", "filename": "panoramic_img178_tooth_00488.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img179_tooth_00489.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img179_tooth_00490.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img179_tooth_00491.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img179_tooth_00492.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "panoramic_img179_tooth_00493.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Severe bone loss", "filename": "panoramic_img180_tooth_00494.jpg"}
+{"tooth": "lateral_incisor", "treatment": "extraction", "diagnosis": "Severe bone loss", "filename": "panoramic_img180_tooth_00495.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Severe bone loss", "filename": "panoramic_img180_tooth_00496.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Severe bone loss", "filename": "panoramic_img180_tooth_00497.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img183_tooth_00498.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img183_tooth_00499.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img185_tooth_00500.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img185_tooth_00501.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img185_tooth_00502.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img185_tooth_00503.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img186_tooth_00504.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img186_tooth_00505.jpg"}
+{"tooth": "third_molar", "treatment": "restoration", "diagnosis": "caries away from pulp", "filename": "panoramic_img187_tooth_00506.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img187_tooth_00507.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img187_tooth_00508.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img187_tooth_00509.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Caries away from pulp", "filename": "panoramic_img187_tooth_00510.jpg"}
+{"tooth": "central_incisor", "treatment": "rct", "diagnosis": "Secondary caries under crown", "filename": "panoramic_img188_tooth_00511.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img189_tooth_00512.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img189_tooth_00513.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img189_tooth_00514.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img189_tooth_00515.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img190_tooth_00516.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img191_tooth_00517.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img191_tooth_00518.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img191_tooth_00519.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img191_tooth_00520.jpg"}
+{"tooth": "unknown", "treatment": "replacement", "diagnosis": "All teeth replacement/ Full mouth rehabiliation with removalble or fixed prosthesis", "filename": "panoramic_img192_tooth_00521.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img193_tooth_00522.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img193_tooth_00523.jpg"}
+{"tooth": "third_molar", "treatment": "restoration", "diagnosis": "Caries away from pulp", "filename": "panoramic_img195_tooth_00524.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img196_tooth_00525.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep restoration involving/touching pulp", "filename": "panoramic_img197_tooth_00526.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img197_tooth_00527.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img197_tooth_00528.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img198_tooth_00529.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img198_tooth_00530.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img198_tooth_00531.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img198_tooth_00532.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img199_tooth_00533.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img199_tooth_00534.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img199_tooth_00535.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img199_tooth_00536.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Seocndary caries under crown", "filename": "panoramic_img200_tooth_00537.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img200_tooth_00538.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img200_tooth_00539.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img201_tooth_00540.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Faulty rct incomplete obturation", "filename": "panoramic_img201_tooth_00541.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Faulty rct incomplete obturation", "filename": "panoramic_img201_tooth_00542.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Faulty rct incomplete obturation", "filename": "panoramic_img201_tooth_00543.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img201_tooth_00544.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Severe bone loss, associated periapical lesion", "filename": "panoramic_img202_tooth_00545.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep caries approaching pulp", "filename": "panoramic_img204_tooth_00546.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img204_tooth_00547.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img204_tooth_00548.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img204_tooth_00549.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted and grossly decayed third molar", "filename": "panoramic_img204_tooth_00550.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img205_tooth_00551.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img205_tooth_00552.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img206_tooth_00553.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img206_tooth_00554.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img206_tooth_00555.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img206_tooth_00556.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img206_tooth_00557.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img20_tooth_00558.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img20_tooth_00559.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img20_tooth_00560.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp and associated periapical lesion", "filename": "panoramic_img20_tooth_00561.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img20_tooth_00562.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img20_tooth_00563.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img30_tooth_00564.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img30_tooth_00565.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Grossly decayed with significant loss of coronal structure", "filename": "panoramic_img30_tooth_00566.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img30_tooth_00567.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img30_tooth_00568.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img30_tooth_00569.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img30_tooth_00570.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Large periapical lesion involving the tooth", "filename": "panoramic_img30_tooth_00571.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img47_tooth_00572.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img47_tooth_00573.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Secondary caries around existing restoration", "filename": "panoramic_img50_tooth_00574.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Secondary caries around existing restoration", "filename": "panoramic_img50_tooth_00575.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Large and deep restoration involving and touching pulp", "filename": "panoramic_img50_tooth_00576.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Grossly decayed tooth with insufficient coronal structure", "filename": "panoramic_img56_tooth_00577.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img56_tooth_00578.jpg"}
+{"tooth": "central_incisor", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img56_tooth_00579.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img56_tooth_00580.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img56_tooth_00581.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img57_tooth_00582.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img57_tooth_00583.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img57_tooth_00584.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img57_tooth_00585.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img58_tooth_00586.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Secondary caries around existing restoration", "filename": "panoramic_img58_tooth_00587.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img58_tooth_00588.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Large and deep restoration involving and touching pulp", "filename": "panoramic_img68_tooth_00589.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep proximal root caries", "filename": "panoramic_img68_tooth_00590.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar with deep caries involving pulp", "filename": "panoramic_img72_tooth_00591.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Large periapical lesion surrounding tooth", "filename": "panoramic_img72_tooth_00592.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img77_tooth_00593.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img77_tooth_00594.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img77_tooth_00595.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img89_tooth_00596.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img89_tooth_00597.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img89_tooth_00598.jpg"}
+{"tooth": "central_incisor", "treatment": "rct", "diagnosis": "Deep restoration involving pulp, periapical lesion surrounding root suggestive of granuloma or cyst", "filename": "panoramic_img89_tooth_00599.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Deep proximal caries involving tooth, large periapical lesion surrounding root suggestive of granuloma or cyst", "filename": "panoramic_img89_tooth_00600.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img101_tooth_00601.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img101_tooth_00602.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img114_tooth_00603.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Secondary caries around existing restoration", "filename": "panoramic_img114_tooth_00604.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Caries away from pulp", "filename": "panoramic_img114_tooth_00605.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Retained deciduous molar  with resorbed roots", "filename": "panoramic_img119_tooth_00606.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Retained deciduous molar  with resorbed roots", "filename": "panoramic_img119_tooth_00607.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img131_tooth_00608.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Severe bone loss", "filename": "panoramic_img131_tooth_00609.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Severe bone loss", "filename": "panoramic_img131_tooth_00610.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img148_tooth_00611.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous canine", "filename": "panoramic_img148_tooth_00612.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img148_tooth_00613.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img148_tooth_00614.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Impacted canine needs extraction", "filename": "panoramic_img148_tooth_00615.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img172_tooth_00616.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img172_tooth_00617.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Fractured/chipped proximal restoration", "filename": "panoramic_img172_tooth_00618.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "panoramic_img172_tooth_00619.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Severe bone loss", "filename": "panoramic_img172_tooth_00620.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Severe bone loss", "filename": "panoramic_img172_tooth_00621.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img172_tooth_00622.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img177_tooth_00623.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Small caries away from pulp", "filename": "panoramic_img177_tooth_00624.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img177_tooth_00625.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "First premolar needs restoration", "filename": "panoramic_img177_tooth_00626.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Grossly decayed root canal treated tooth with significant loss of coronal sturcture", "filename": "panoramic_img177_tooth_00627.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img181_tooth_00628.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img181_tooth_00629.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img181_tooth_00630.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "panoramic_img181_tooth_00631.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Proximal caries involving pulp", "filename": "panoramic_img181_tooth_00632.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "panoramic_img181_tooth_00633.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img182_tooth_00634.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img182_tooth_00635.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img182_tooth_00636.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img184_tooth_00637.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img184_tooth_00638.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Root stump with total loss of coronal tooth structure", "filename": "panoramic_img184_tooth_00639.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img184_tooth_00640.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img184_tooth_00641.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Root canal treated tooth needs to be restored with a crown", "filename": "panoramic_img184_tooth_00642.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "panoramic_img184_tooth_00643.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted wisdom tooth with associated periapical changes", "filename": "extraction_img1_tooth_00644.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Grossly decayed root canal treated molar with fractured crown structure", "filename": "extraction_img2_tooth_00645.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed molar with extensive caries involving the pulp chamber and root canals", "filename": "extraction_img3_tooth_00646.jpg"}
+{"tooth": "lateral_incisor", "treatment": "extraction", "diagnosis": "Grossly decayed and fractured middle tooth with root stump remaining, indicating non-vital pulp and extensive structural damage", "filename": "extraction_img4_tooth_00647.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed third molar with extensive caries involving the pulp", "filename": "extraction_img6_tooth_00648.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Grossly decayed and fractured second molar with previous root canal treatment, necessitating extraction due to extensive damage and lack of restorability", "filename": "extraction_img8_tooth_00649.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "First molar root canal treated previously and needs to be restored with a crown", "filename": "extraction_img8_tooth_00650.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar with radiographic evidence of partial eruption and potential complications such as pericoronitis", "filename": "extraction_img9_tooth_00651.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Gross decay and fracture involving the second molar which has undergone root canal treatment.", "filename": "extraction_img10_tooth_00652.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Gross decay and fracture involving the third molar which has undergone root canal treatment.", "filename": "extraction_img10_tooth_00653.jpg"}
+{"tooth": "first_molar", "treatment": "replacement", "diagnosis": "The first molar is missing and requires replacement.", "filename": "extraction_img10_tooth_00654.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Second premolar root canal treated and needs to be restored with a crown", "filename": "extraction_img10_tooth_00655.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed third molar with extensive caries necessitating extraction", "filename": "extraction_img11_tooth_00656.jpg"}
+{"tooth": "central_incisor", "treatment": "extraction", "diagnosis": "Retained deciduous central incisor tooth with resorbed roots and needs extraction", "filename": "extraction_img12_tooth_00657.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Partially erupted/impacted third molar which needs extraction", "filename": "extraction_img13_tooth_00658.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth on the side with resorbed roots", "filename": "extraction_img14_tooth_00659.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous molar with resorbed roots which needs extraction", "filename": "extraction_img14_tooth_00660.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Root stumps", "filename": "extraction_img15_tooth_00661.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted tooth", "filename": "extraction_img15_tooth_00662.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted wisdom tooth, partially erupted, with potential for infection and complications", "filename": "extraction_img17_tooth_00663.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "extraction_img18_tooth_00664.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Grossly decayed premolar root canal treated with fractured tooth structure", "filename": "extraction_img19_tooth_00665.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "First molar root canal treated needs restoration and crown", "filename": "extraction_img19_tooth_00666.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Grossly decayed second molar root canal treated with remaining root stumps requiring extraction", "filename": "extraction_img20_tooth_00667.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Third molar impacted needs extraction", "filename": "extraction_img22_tooth_00668.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal cavity touching pulp on second molar, indicating pulp involvement and requiring rct", "filename": "extraction_img22_tooth_00669.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed wisdom molar with extensive caries necessitating extraction", "filename": "extraction_img23_tooth_00670.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Grossly decayed deciduous molar with resorbed roots and underlying permanent tooth", "filename": "extraction_img24_tooth_00671.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep cavity touching pulp on partially erupted wisdom molar, indicating pulp involvement", "filename": "extraction_img25_tooth_00672.jpg"}
+{"tooth": "lateral_incisor", "treatment": "extraction", "diagnosis": "Retained deciduous tooth needs extraction.", "filename": "extraction_img26_tooth_00673.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Impacted permanent canine tooth", "filename": "extraction_img26_tooth_00674.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "extraction_img27_tooth_00675.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "extraction_img27_tooth_00676.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "extraction_img27_tooth_00677.jpg"}
+{"tooth": "lateral_incisor", "treatment": "extraction", "diagnosis": "Retained deciduous tooth resorbed roots and deep caries", "filename": "extraction_img28_tooth_00678.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Retained deciduous tooth with deep caries", "filename": "extraction_img28_tooth_00679.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed third molar with extensive caries necessitating extraction", "filename": "extraction_img29_tooth_00680.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Grossly decayed root canal treated second molar with total loss of tooth structure, root stumps remaining. Periapical infection present.", "filename": "extraction_img30_tooth_00681.jpg"}
+{"tooth": "third_molar", "treatment": "restoration", "diagnosis": "Deep proximal cavity on third molar close to pulp", "filename": "extraction_img30_tooth_00682.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Grossly decayed root canal treated second molar with total loss of tooth structure, root stumps remaining. Periapical infection present.", "filename": "extraction_img31_tooth_00683.jpg"}
+{"tooth": "third_molar", "treatment": "restoration", "diagnosis": "Deep proximal cavity on third molar close to pulp", "filename": "extraction_img31_tooth_00684.jpg"}
+{"tooth": "central_incisor", "treatment": "extraction", "diagnosis": "Resorbed roots of the middle incisor with previous root canal treatment. Periapical changes seen.", "filename": "extraction_img32_tooth_00685.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Root stump with faulty rct needs extraction", "filename": "extraction_img33_tooth_00686.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Grossly decayed second molar with significant loss of tooth structure, necessitating extraction due to extensive caries and structural compromise", "filename": "extraction_img34_tooth_00687.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Proximal caries on second premolar needs to be restored", "filename": "extraction_img34_tooth_00688.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Root stump of third molar with periapical changes needs extraction", "filename": "extraction_img35_tooth_00689.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous canine needs extraction", "filename": "extraction_img36_tooth_00690.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Fracture line in the middle root region, with root caries and significant bone loss indicating compromised integrity needs extractioon", "filename": "extraction_img37_tooth_00691.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "First molar root canal treated needs to be restored with a crown", "filename": "extraction_img37_tooth_00692.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed third molar with significant loss of tooth structure needs extraction", "filename": "extraction_img38_tooth_00693.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Second molar has proximal caries and needs restoration", "filename": "extraction_img38_tooth_00694.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Impacted third molar tooth with potential for pericoronitis needs extraction", "filename": "extraction_img39_tooth_00695.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar tooth, partially erupted, with potential for infection and pericoronitis needs extraction", "filename": "extraction_img40_tooth_00696.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots requires extraction", "filename": "extraction_img41_tooth_00697.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots requires extraction", "filename": "extraction_img41_tooth_00698.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots requires extraction", "filename": "extraction_img41_tooth_00699.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Grossly decayed root canal treated second molar while requires extraction due to extensive structure ldamage and oss.", "filename": "extraction_img42_tooth_00700.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Deep proximal caries on first molar requires restoration", "filename": "extraction_img42_tooth_00701.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted wisdom molar, partially erupted, with potential for pericoronitis and caries needs extraction", "filename": "extraction_img43_tooth_00702.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Incomplete/faulty rct seen on molar, requries rct", "filename": "extraction_img44_tooth_00703.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar, partially erupted, with potential for pericoronitis and caries needs extraction", "filename": "extraction_img45_tooth_00704.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Large periapical lesion involving the first premolar with significant bone loss extending to the middle third of the root needs rct", "filename": "extraction_img46_tooth_00705.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Root stump in a previously root canal treated tooth, needs extraction", "filename": "extraction_img47_tooth_00706.jpg"}
+{"tooth": "lateral_incisor", "treatment": "extraction", "diagnosis": "Reatined deciduous incisor with periapical changes needs extraction", "filename": "extraction_img48_tooth_00707.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Central incisor caries needs restoration", "filename": "extraction_img48_tooth_00708.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Third molar needs extraction", "filename": "extraction_img49_tooth_00709.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed third molar tooth with extensive caries and remaining root stump needs extraction", "filename": "extraction_img50_tooth_00710.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar needs extraction", "filename": "extraction_img51_tooth_00711.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep caries in the third molar tooth necessitating extraction", "filename": "extraction_img52_tooth_00712.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots needs extraction", "filename": "extraction_img53_tooth_00713.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Grossly decayed first molar with significant loss of tooth structure, necessitating extraction due to extensive caries and structural compromise", "filename": "extraction_img54_tooth_00714.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Grossly decayed middle molar with significant loss of tooth structure and root stumps needs extraction", "filename": "extraction_img55_tooth_00715.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep proximal decay on third molar needs extraction due to risk of infection and non-restorable condition", "filename": "extraction_img56_tooth_00716.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Faulty root canal on first molar with obturation not extending to the root apex, large periapical lesion involving the furcation area", "filename": "extraction_img57_tooth_00717.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Root stumps of first molar with no remaining viable tooth structure, necessitating extraction", "filename": "extraction_img58_tooth_00718.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Root stumps of first molar with no remaining viable tooth structure, necessitating extraction", "filename": "extraction_img58_tooth_00719.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Root stump in the second molar which is root canal treated. No viable tooth structure remaining", "filename": "extraction_img59_tooth_00720.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar needs extraction", "filename": "extraction_img59_tooth_00721.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar needs extraction", "filename": "extraction_img60_tooth_00722.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar with potential for pericoronitis and caries needs extraction", "filename": "extraction_img61_tooth_00723.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep cavity in the third molar needs extraction", "filename": "extraction_img62_tooth_00724.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Bone loss observed up to the middle third of the molar with a periapical lesion extending to the furcation area, indicating advanced periodontal disease and endodontic involvement in the tooth, needs extraction", "filename": "extraction_img63_tooth_00725.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar with potential for pericoronitis and caries needs extraction", "filename": "extraction_img64_tooth_00726.jpg"}
+{"tooth": "lateral_incisor", "treatment": "extraction", "diagnosis": "Fractured lateral incisor with remaining root stump with associated periapical lesion needs extraction since there is significant loss of tooth structure", "filename": "extraction_img65_tooth_00727.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Large periapical lesion associated with third molar, needs extraction", "filename": "extraction_img66_tooth_00728.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Large and deep cavity on the wisdom molar involving the pulp needs extraction", "filename": "extraction_img67_tooth_00729.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep caries on second premolar with associated periapical lesion needs rct", "filename": "extraction_img68_tooth_00730.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries on second molar needs rct", "filename": "extraction_img68_tooth_00731.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries on first molar needs restoration", "filename": "extraction_img68_tooth_00732.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted wisdom molar with potential for pericoronitis and caries needs extraction", "filename": "extraction_img69_tooth_00733.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Vertical fracture of the root can treated middle molar", "filename": "extraction_img70_tooth_00734.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Proximal cavity on molar with bone loss extending to the middle third of the root on the distal side", "filename": "extraction_img71_tooth_00735.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep cavity involving pulp of molar, necessitating endodontic treatment with rct", "filename": "extraction_img72_tooth_00736.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Grossly decayed molar with significant loss of tooth structure, necessitating extraction due to extensive caries and structural compromise", "filename": "extraction_img73_tooth_00737.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Root stump of second molar", "filename": "extraction_img74_tooth_00738.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "extraction_img74_tooth_00739.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed wisdom molar with extensive caries necessitating extraction", "filename": "extraction_img75_tooth_00740.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Root stumps of the molar which can cuse potential infection or inflammation", "filename": "extraction_img76_tooth_00741.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Grossly decayed molar with remaining root stumps", "filename": "extraction_img77_tooth_00742.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "proximal caries in the premolar", "filename": "extraction_img77_tooth_00743.jpg"}
+{"tooth": "canine", "treatment": "extraction", "diagnosis": "Retained deciduous canine  with resorbed roots", "filename": "extraction_img78_tooth_00744.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "extraction_img79_tooth_00745.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Grossly decayed root canal treated molar with remaining root stumps", "filename": "extraction_img80_tooth_00746.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "proximal caries on premolar", "filename": "extraction_img80_tooth_00747.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed wisdom tooth with deep and extensive caries reaching pulp chamber", "filename": "extraction_img81_tooth_00748.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed wisdom tooth with extensive caries reaching pulp chamber", "filename": "extraction_img82_tooth_00749.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted wisdom tooth, partially erupted, with potential for infection complications like pericoronitis", "filename": "extraction_img83_tooth_00750.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted wisdom tooth, partially erupted, with potential for infection and complications", "filename": "extraction_img85_tooth_00751.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Grossly decayed wisdom tooth with extensive caries reaching pulp chamber and likely pulpal necrosis", "filename": "extraction_img86_tooth_00752.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Grossly decayed deciduous tooth with a deep caries leading to loss of tooth structure and furcation involvement", "filename": "extraction_img88_tooth_00753.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Grossly decayed root canal treated molar with significant loss of  tooth structure and remaining root stump", "filename": "extraction_img89_tooth_00754.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "root canal treated molar which needs to be restored with a crown to protect tooth structure", "filename": "extraction_img89_tooth_00755.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving pulp", "filename": "extraction_img90_tooth_00756.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted wisdom molar with deep caries approaching pulp", "filename": "extraction_img90_tooth_00757.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "extraction_img91_tooth_00758.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Root stump which can lead to possible infection or inflammation", "filename": "extraction_img92_tooth_00759.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "extraction_img93_tooth_00760.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "proximal caries on deciduous second molar. caries does not appear to involve pulp", "filename": "extraction_img93_tooth_00761.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep caries approaching pulp and requiring extraction due to extensive decay", "filename": "extraction_img94_tooth_00762.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving the pulp chamber", "filename": "extraction_img95_tooth_00763.jpg"}
+{"tooth": "central_incisor", "treatment": "extraction", "diagnosis": "Root stump of incisor with associated periapical lesion, significant loss of tooth structure", "filename": "extraction_img96_tooth_00764.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump of root canal treated premolar with no remaining viable tooth structure", "filename": "extraction_img97_tooth_00765.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Root stump of root canal treated premolar with associated large periapical lesion and no remaining viable tooth structure", "filename": "extraction_img98_tooth_00766.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Secondary caries underneath crown of premolar showing significant loss of tooth structure and  associated periapical lesion", "filename": "extraction_img99_tooth_00767.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Large periapical lesion on root canal treated tooth with significant bone loss", "filename": "extraction_img100_tooth_00768.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted wisdom molar with potential for pericoronitis and complications", "filename": "extraction_img101_tooth_00769.jpg"}
+{"tooth": "central_incisor", "treatment": "extraction", "diagnosis": "Retained deciduous teeth with resorbed roots", "filename": "extraction_img102_tooth_00770.jpg"}
+{"tooth": "central_incisor", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "extraction_img102_tooth_00771.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Large periapical lesion on root canal treated molar extending to the furcation region", "filename": "extraction_img103_tooth_00772.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Deep large caries involving the pulp and extending to the entire middle third of the tooth with associated periapical lesion", "filename": "extraction_img104_tooth_00773.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Grossly decayed molar with significant loss of tooth structure", "filename": "extraction_img105_tooth_00774.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries on the tooth approaching pulp. Restoration can be attempted if asymptomatic", "filename": "extraction_img105_tooth_00775.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted wisdom molar with potential for pericoronitis and complications", "filename": "extraction_img106_tooth_00776.jpg"}
+{"tooth": "second_premolar", "treatment": "extraction", "diagnosis": "Vertical fracture in root canal treated tooth with fracture line visible in the tooth center. Tooth also shows periapical radiolucency", "filename": "extraction_img107_tooth_00777.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep proximal caries  on the wisdom molar, extending into the pulp chamber", "filename": "extraction_img108_tooth_00778.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Deep proximal caries on molar approaching pulp chamber", "filename": "extraction_img108_tooth_00779.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries extending to root surface with involvement of pulp, requiring root canal treatment (RCT)", "filename": "rct_img1_tooth_00780.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries close to pulp chamber requiring RCT", "filename": "rct_img1_tooth_00781.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Molar restoration close to pulp with periapical changes indicating pulpal involvement requiring root canal treatment (RCT) and crown", "filename": "rct_img3_tooth_00782.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep caries close to pulp chamber with associated periapical changes requiring endodontic treatment", "filename": "rct_img4_tooth_00783.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Deep proximal caries approaching pulp", "filename": "rct_img5_tooth_00784.jpg"}
+{"tooth": "unknown", "treatment": "rct", "diagnosis": "Deep proximal caries on molar involving and touching pulp chamber", "filename": "rct_img5_tooth_00785.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries on molar touching pulp with periapical changes, requiring RCT and crown", "filename": "rct_img6_tooth_00786.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "root canal treated molar with incomplete obturation requiring re-RCT and crown", "filename": "rct_img7_tooth_00787.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Faulty restoration on molar extending till pulp chamber requires RCT and crown", "filename": "rct_img8_tooth_00788.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries involving pulp", "filename": "rct_img9_tooth_00789.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Root stump of molar with no viable remaining tooth structure", "filename": "rct_img9_tooth_00790.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries very close to the pulp chamber", "filename": "rct_img9_tooth_00791.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Small proximal caries not close to the pulp", "filename": "rct_img9_tooth_00792.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Deep caries touching pulp with periapical changes, requiring RCT and crown", "filename": "rct_img10_tooth_00793.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries on molar touching pulp with periapical changes, requiring RCT and crown", "filename": "rct_img11_tooth_00794.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Deep caries on lateral incisor touching pulp with periapical changes, requiring RCT and crown", "filename": "rct_img12_tooth_00795.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries on tooth not close to the pulp chamber", "filename": "rct_img12_tooth_00796.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Severe attrition on molar, pulp close to surface, periapical changes present, requiring RCT and crown", "filename": "rct_img13_tooth_00797.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep restoration touching pulp chamber, periapical changes present, requiring RCT and crown.", "filename": "rct_img14_tooth_00798.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "root canal treated premolar needs a crown to protect remaining tooth structure", "filename": "rct_img14_tooth_00799.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries on molar very close to pulp with PDL widening", "filename": "rct_img15_tooth_00800.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Large restoration on the premolar very close to and touching pulp chamber. Secondary caries present under the restoration", "filename": "rct_img16_tooth_00801.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries on the molar involving close to the pulp", "filename": "rct_img17_tooth_00802.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries on the molar approaching pulp chamber", "filename": "rct_img18_tooth_00803.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Periapical lesion associated with a previously treated middle molar requiring re rct", "filename": "rct_img19_tooth_00804.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "impacted third molar", "filename": "rct_img19_tooth_00805.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving the pulp necessitating endodontic treatment", "filename": "rct_img20_tooth_00806.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Small proximal caries away from pulp chamber", "filename": "rct_img20_tooth_00807.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries involving the pulp of the molar, necessitating endodontic treatment", "filename": "rct_img21_tooth_00808.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep caries on the premolar very close to and touching the pulp chamber with significant loss of tooth structure, requiring rct and crown", "filename": "rct_img25_tooth_00809.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Deep caries involving pulp chamber lateral incisor needs rct and crown", "filename": "rct_img26_tooth_00810.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Deep caries very close to and touching the pulp chamber indicating pulp involvement and necessitating endodontic treatment", "filename": "rct_img27_tooth_00811.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Faulty RCT on the molar, indicating incomplete root canal treatment and requires re rct/re treatment", "filename": "rct_img28_tooth_00812.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries very close to and touching the pulp chamber", "filename": "rct_img29_tooth_00813.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries very close to pulp", "filename": "rct_img29_tooth_00814.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving the mesial and distal aspects of the molar, with PDL widening requiring endodontic treatment", "filename": "rct_img30_tooth_00815.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries on molar which is not close to the pulp chamber", "filename": "rct_img30_tooth_00816.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries very close to pulp chamber", "filename": "rct_img31_tooth_00817.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries very close to the pulp chamber", "filename": "rct_img31_tooth_00818.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep caries approaching and very close to the pulp chamber", "filename": "rct_img32_tooth_00819.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving the pulp needs rct and crown", "filename": "rct_img33_tooth_00820.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries very close to pulp chamber  with significant loss of tooth structure and periapical changes, necessitating rct and crown", "filename": "rct_img34_tooth_00821.jpg"}
+{"tooth": "first_premolar", "treatment": "extraction", "diagnosis": "Severe caries with extensive loss of tooth structure", "filename": "rct_img35_tooth_00822.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Periapical changes and  secondary caries seen underneath the crown of the molar, requiring endodontic treatment", "filename": "rct_img36_tooth_00823.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Deep caries involving pulp chamber", "filename": "rct_img37_tooth_00824.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Secondary caries on root canal treated central incisor with associated periapical lesion required re rct/re treatment", "filename": "rct_img37_tooth_00825.jpg"}
+{"tooth": "central_incisor", "treatment": "rct", "diagnosis": "Extremely large periapical lesion indicative of a periapical granuloma or cystic lesion", "filename": "rct_img38_tooth_00826.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries on the molar approaching the pulp chamber", "filename": "rct_img39_tooth_00827.jpg"}
+{"tooth": "central_incisor", "treatment": "rct", "diagnosis": "Deep caries involving pulp chamber with significant loss of tooth structure", "filename": "rct_img40_tooth_00828.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp with associated PDL widening indicating pulp involvement", "filename": "rct_img41_tooth_00829.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Large caries involving pulp", "filename": "rct_img42_tooth_00830.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Large proximal caries underneath the restoration, caries approaching and very close to pulp chamber", "filename": "rct_img43_tooth_00831.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Secondary caries underneath existing restoration, caries involving the pulp", "filename": "rct_img44_tooth_00832.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "root stump with complete loss of coronal tooth structure", "filename": "rct_img44_tooth_00833.jpg"}
+{"tooth": "central_incisor", "treatment": "rct", "diagnosis": "Large periapical lesion present indicative of a granuloma", "filename": "rct_img45_tooth_00834.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Very deep proximal caries involving nerve", "filename": "rct_img46_tooth_00835.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Extremely deep caries involving pulp chamber with periapical changes and PDL widening", "filename": "rct_img47_tooth_00836.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Caries on molar not close to the pulp needs to be restored", "filename": "rct_img47_tooth_00837.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries not very close to the pulp chamber", "filename": "rct_img48_tooth_00838.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving the pulp chamber", "filename": "rct_img49_tooth_00839.jpg"}
+{"tooth": "third_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving the pulp chamber", "filename": "rct_img49_tooth_00840.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "proximal caries approaching the pulp chamber", "filename": "rct_img49_tooth_00841.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries with periapical changes", "filename": "rct_img50_tooth_00842.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries touching pulp chamber", "filename": "rct_img51_tooth_00843.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries very close to pulp with associated periapical changes", "filename": "rct_img52_tooth_00844.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "occlusal caries on the premolar not very close to the pulp", "filename": "rct_img53_tooth_00845.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving the pulp, requiring endodontic treatment", "filename": "rct_img54_tooth_00846.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Deep proximal caries on canine involving the pulp, requiring endodontic treatment", "filename": "rct_img55_tooth_00847.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Faulty restoration on the molar touching pulp chamber, requiring RCT", "filename": "rct_img56_tooth_00848.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "rct_img56_tooth_00849.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries on the premolar involving the pulp, requiring endodontic treatment", "filename": "rct_img57_tooth_00850.jpg"}
+{"tooth": "central_incisor", "treatment": "rct", "diagnosis": "Large periapical infection on the incisor requiring endodontic treatment", "filename": "rct_img58_tooth_00851.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Large proximal caries close to pulp necessitating endodontic treatment due to proximity to the pulp chamber", "filename": "rct_img59_tooth_00852.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Large proximal caries close to pulp necessitating endodontic treatment due to proximity to the pulp chamber", "filename": "rct_img59_tooth_00853.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp with significant loss of tooth structure", "filename": "rct_img60_tooth_00854.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries not very close the pulp needs to be restored", "filename": "rct_img60_tooth_00855.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries approaching the pulp chamber needs to be restored if tooth is asymptomatic", "filename": "rct_img61_tooth_00856.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries extending to the root and involving pulp chamber, requiring an RCT", "filename": "rct_img62_tooth_00857.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Proximal caries close to pulp on molar.", "filename": "rct_img63_tooth_00858.jpg"}
+{"tooth": "third_molar", "treatment": "rct", "diagnosis": "Impacted wisdom tooth", "filename": "rct_img63_tooth_00859.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep proximal caries close to pulp on third molar", "filename": "rct_img64_tooth_00860.jpg"}
+{"tooth": "central_incisor", "treatment": "rct", "diagnosis": "Large periapical infection on  with high probability of a cystic lesion", "filename": "rct_img65_tooth_00861.jpg"}
+{"tooth": "lateral_incisor", "treatment": "rct", "diagnosis": "Large periapical infection with high probability of a cystic lesion", "filename": "rct_img65_tooth_00862.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries needs restoration", "filename": "rct_img65_tooth_00863.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Extremely deep caries touching pulp on molar with significant loss of tooth structure", "filename": "rct_img66_tooth_00864.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Large proximal caries involving pulp", "filename": "rct_img67_tooth_00865.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "impacted third molar", "filename": "rct_img67_tooth_00866.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Large proximal caries involving pulp with associated periapical infection and changes", "filename": "rct_img68_tooth_00867.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep occlusal caries close to pulp", "filename": "rct_img69_tooth_00868.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "impacted third molar", "filename": "rct_img69_tooth_00869.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving the pulp", "filename": "rct_img71_tooth_00870.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries not very close to the pulp needs to be restored", "filename": "rct_img71_tooth_00871.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Large and deep caries involving pulp needs rct and crown", "filename": "rct_img72_tooth_00872.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries involving pulp", "filename": "rct_img73_tooth_00873.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Faulty root canal on middle molar with obturation not extending to apex, associated periapical changes, tooth needs re treatment/ re rct", "filename": "rct_img74_tooth_00874.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries on premolar involving pulp requiring RCT", "filename": "rct_img74_tooth_00875.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Secondary caries approaching pulp under existing restoration", "filename": "rct_img75_tooth_00876.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries very close to pulp", "filename": "rct_img76_tooth_00877.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries touching/involving pulp", "filename": "rct_img77_tooth_00878.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Proximal caires away from the pulp needs to be restored", "filename": "rct_img77_tooth_00879.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Large periapical lesion on a  root canal treated tooth", "filename": "rct_img78_tooth_00880.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "rct_img78_tooth_00881.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Secondary caries under existing restoration involving pulp chamber", "filename": "rct_img79_tooth_00882.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Secondary caries under existing restoration involving pulp chamber", "filename": "rct_img80_tooth_00883.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Secondary caries very close to the pulp under existing restoration", "filename": "rct_img81_tooth_00884.jpg"}
+{"tooth": "third_molar", "treatment": "rct", "diagnosis": "Proximal caries close to the pulp", "filename": "rct_img81_tooth_00885.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries involving pulp", "filename": "rct_img83_tooth_00886.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "proximal caries needs to be restored", "filename": "rct_img83_tooth_00887.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving pulp owith associated periapical changes", "filename": "rct_img84_tooth_00888.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries approaching pulp", "filename": "rct_img85_tooth_00889.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries not very close to the pulp", "filename": "rct_img85_tooth_00890.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from the pulp, caries does not appear to be touching the pulp", "filename": "rct_img86_tooth_00891.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Large and deep caries involving pulp chamber", "filename": "rct_img87_tooth_00892.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries very close to pulp", "filename": "rct_img88_tooth_00893.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries approaching and very close to pulp chamber", "filename": "rct_img89_tooth_00894.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Caries away from the pulp needs to be restored", "filename": "rct_img89_tooth_00895.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries approaching and close to pulp", "filename": "rct_img90_tooth_00896.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving pulp on molar", "filename": "rct_img91_tooth_00897.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries approaching and very close to the pulp chamber", "filename": "rct_img92_tooth_00898.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "secondary caries under existing restoration on third molar. the caries cannot be restored properly", "filename": "rct_img93_tooth_00899.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal approaching  the pulp chamber", "filename": "rct_img94_tooth_00900.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal cavities on both middle molars involving the pulp, necessitating endodontic treatment", "filename": "rct_img94_tooth_00901.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries approaching pulp", "filename": "rct_img95_tooth_00902.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries approaching pulp", "filename": "rct_img95_tooth_00903.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Large and deep proximal caries involving pulp on middle molar", "filename": "rct_img96_tooth_00904.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Root canal treated molar needs to be restored with a crown to protect tooth structure", "filename": "rct_img96_tooth_00905.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving pulp", "filename": "rct_img97_tooth_00906.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Secondary caries involving pulp under existing restoration", "filename": "rct_img98_tooth_00907.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Deep proximal caries involving pulp", "filename": "rct_img99_tooth_00908.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving pulp chamber", "filename": "rct_img100_tooth_00909.jpg"}
+{"tooth": "central_incisor", "treatment": "rct", "diagnosis": "Large restoration touching pulp chamber", "filename": "rct_img101_tooth_00910.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Proximal caries approaching to pulp", "filename": "rct_img101_tooth_00911.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Secondary caries under  exsting restoration needs to be restored", "filename": "rct_img102_tooth_00912.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Faulty root canal associated periapical infection involving furcation area", "filename": "rct_img104_tooth_00913.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Deep caries involving pulp chamber", "filename": "rct_img105_tooth_00914.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries involving pulp", "filename": "rct_img106_tooth_00915.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Secondary caries under existing restoration, caries approaching and very close to the pulp chamber", "filename": "rct_img107_tooth_00916.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries approaching and very close  to pulp chamber", "filename": "rct_img108_tooth_00917.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Faulty root canal with obturation not extending to the apex of the root and associated periapical infection, tooth needs re rct or re treatment", "filename": "rct_img109_tooth_00918.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Deep proximal caries involving pulp", "filename": "rct_img110_tooth_00919.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "impacted third molar", "filename": "rct_img110_tooth_00920.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Deep proximal caries not very close to the pulp  chamber, can be restored of tooth is asymptomatic", "filename": "rct_img111_tooth_00921.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp", "filename": "rct_img112_tooth_00922.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving pulp", "filename": "rct_img113_tooth_00923.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Proximal caries very close to and involving pulp", "filename": "rct_img114_tooth_00924.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from the pulp", "filename": "rct_img115_tooth_00925.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal cavity away from the pulp", "filename": "rct_img115_tooth_00926.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Deep caries away from the pulp", "filename": "filling_img1_tooth_00927.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Proximal caries not involving  pulp", "filename": "filling_img2_tooth_00928.jpg"}
+{"tooth": "central_incisor", "treatment": "rct", "diagnosis": "Proximal caries very close to the pulp chamber", "filename": "filling_img3_tooth_00929.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries not involving  pulp", "filename": "filling_img3_tooth_00930.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries not involving  pulp", "filename": "filling_img4_tooth_00931.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "impacted third molar", "filename": "filling_img4_tooth_00932.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Deep caries not involving  pulp", "filename": "filling_img5_tooth_00933.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Proximal caries not involving  pulp", "filename": "filling_img6_tooth_00934.jpg"}
+{"tooth": "third_molar", "treatment": "rct", "diagnosis": "Deep caries approaching  pulp", "filename": "filling_img6_tooth_00935.jpg"}
+{"tooth": "third_molar", "treatment": "rct", "diagnosis": "Deep caries approaching pulp", "filename": "filling_img7_tooth_00936.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries not involving  pulp", "filename": "filling_img7_tooth_00937.jpg"}
+{"tooth": "third_molar", "treatment": "rct", "diagnosis": "Deep cavity close to pulp", "filename": "filling_img8_tooth_00938.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries not involving  pulp", "filename": "filling_img8_tooth_00939.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Deep caries not away from and not involving  pulp", "filename": "filling_img9_tooth_00940.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Shallow caries in the center needs to be restored", "filename": "filling_img10_tooth_00941.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "proximal cavity away from the pulp chamber", "filename": "filling_img11_tooth_00942.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "proximal caries approaching can be restored if tooth is asymptomatic", "filename": "filling_img12_tooth_00943.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "proximal caries away from pulp", "filename": "filling_img13_tooth_00944.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Deep caries away from pulp", "filename": "filling_img14_tooth_00945.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar", "filename": "filling_img14_tooth_00946.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "occlusal caries away from pulp", "filename": "filling_img15_tooth_00947.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Occlusal caries not involving the pulp", "filename": "filling_img16_tooth_00948.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Secondary caries approaching pulp chamber under existing proximal restoration", "filename": "filling_img17_tooth_00949.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Occlusal caries away from pulp", "filename": "filling_img18_tooth_00950.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp, caries is not involving pulp and can be resotred", "filename": "filling_img19_tooth_00951.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img21_tooth_00952.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img22_tooth_00953.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img23_tooth_00954.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Deep proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img24_tooth_00955.jpg"}
+{"tooth": "third_molar", "treatment": "rct", "diagnosis": "Deep proximal caries approaching pulp", "filename": "filling_img26_tooth_00956.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img26_tooth_00957.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Caries away from the pulp on deciduous molar tooth. Roots intact", "filename": "filling_img27_tooth_00958.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img28_tooth_00959.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted thrid molar", "filename": "filling_img28_tooth_00960.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "secondary caries underneath existing restoration", "filename": "filling_img29_tooth_00961.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted third molar tooth which can lead to pericoronitis and complications", "filename": "filling_img29_tooth_00962.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img30_tooth_00963.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Secondary caries under the crown on root canal treated premolar", "filename": "filling_img30_tooth_00964.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving  pulp", "filename": "filling_img31_tooth_00965.jpg"}
+{"tooth": "unknown", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img31_tooth_00966.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Fractured restoration present. Needs to be re restored", "filename": "filling_img32_tooth_00967.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Secondary caries under an existing restoration. Caries appears to be away from pulp and can be restored", "filename": "filling_img34_tooth_00968.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img35_tooth_00969.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Secondary caries under an existing restoration. caries appears to be away from the pulp", "filename": "filling_img36_tooth_00970.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Deep proximal caries away from pulp", "filename": "filling_img37_tooth_00971.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Deep proximal caries away from the pulp", "filename": "filling_img37_tooth_00972.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img38_tooth_00973.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img39_tooth_00974.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Secondary caries under an existing restoration", "filename": "filling_img40_tooth_00975.jpg"}
+{"tooth": "unknown", "treatment": "restoration", "diagnosis": "Deep proximal caries away from pulp, caries does not appear to be involving pulp and can be restored if tooth is asymptomatic", "filename": "filling_img40_tooth_00976.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Small occlusal caries away from the pulp", "filename": "filling_img41_tooth_00977.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Secondary caries under an existing restoration, can be restored if tooth is asymptomatic", "filename": "filling_img42_tooth_00978.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Secondary caries under an existing restoration, can be restored as caries is away from the pulp", "filename": "filling_img43_tooth_00979.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "proximal caries", "filename": "filling_img44_tooth_00980.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "proximal caries", "filename": "filling_img44_tooth_00981.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries", "filename": "filling_img45_tooth_00982.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "proximal caries", "filename": "filling_img45_tooth_00983.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Deep proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img46_tooth_00984.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "occlusal caries away from the pulp", "filename": "filling_img47_tooth_00985.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Deep occlusal caries close to the pulp. Restoration can be done if there is no pain", "filename": "filling_img48_tooth_00986.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Secondary caries under existing restoration", "filename": "filling_img49_tooth_00987.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img50_tooth_00988.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries very close to pulp", "filename": "filling_img51_tooth_00989.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Secondary caries under an existing restoration", "filename": "filling_img52_tooth_00990.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img53_tooth_00991.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img54_tooth_00992.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Secondary caries under an existing restoration", "filename": "filling_img54_tooth_00993.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep caries close to pulp on third molar", "filename": "filling_img54_tooth_00994.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Occlusal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img55_tooth_00995.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "filling_img55_tooth_00996.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "filling_img56_tooth_00997.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Deep proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img57_tooth_00998.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Secondary caries under an existing restoration, caries is approaching the pulp", "filename": "filling_img58_tooth_00999.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Oclcusal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img59_tooth_01000.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Secondary caries under an existing restoration", "filename": "filling_img60_tooth_01001.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp", "filename": "filling_img61_tooth_01002.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img62_tooth_01003.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Secondary caries around and existing restoration", "filename": "filling_img63_tooth_01004.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Secondary caries around an existing restoration", "filename": "filling_img64_tooth_01005.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Occlusal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img65_tooth_01006.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Occlusal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img66_tooth_01007.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "Proximal caries approaching pulp", "filename": "filling_img67_tooth_01008.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries approaching  from pulp", "filename": "filling_img67_tooth_01009.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep caries on third molar", "filename": "filling_img68_tooth_01010.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Secondary caries around an existing restoration", "filename": "filling_img69_tooth_01011.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Deep proximal caries approaching pulp", "filename": "filling_img70_tooth_01012.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Deep proximal caries away from the pulp", "filename": "filling_img70_tooth_01013.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Deep occlusal caries approaching pulp chamber", "filename": "filling_img71_tooth_01014.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries approaching pulp", "filename": "filling_img72_tooth_01015.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Deep proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img73_tooth_01016.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Occlusal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img74_tooth_01017.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Proximal caries approaching pulp chamber", "filename": "filling_img75_tooth_01018.jpg"}
+{"tooth": "second_molar", "treatment": "extraction", "diagnosis": "Root stumps with complete loss of coronal tooth structure", "filename": "filling_img75_tooth_01019.jpg"}
+{"tooth": "canine", "treatment": "restoration", "diagnosis": "Deep proximal caries approaching pulp", "filename": "filling_img76_tooth_01020.jpg"}
+{"tooth": "lateral_incisor", "treatment": "restoration", "diagnosis": "secondary caries under existing restoration", "filename": "filling_img76_tooth_01021.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img77_tooth_01022.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries very close to the pulp chamber", "filename": "filling_img78_tooth_01023.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Deep proximal caries very close to pulp chamber", "filename": "filling_img79_tooth_01024.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Small occlusal caries away from the pulp chamber", "filename": "filling_img80_tooth_01025.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Small proximal caries away from pulp chamber", "filename": "filling_img80_tooth_01026.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img81_tooth_01027.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries approaching pulp", "filename": "filling_img82_tooth_01028.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Small occlusal caries away from pulp chamber", "filename": "filling_img83_tooth_01029.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Deep occlusal caries away from pulp chamber", "filename": "filling_img84_tooth_01030.jpg"}
+{"tooth": "central_incisor", "treatment": "rct", "diagnosis": "Deep proximal caries very close to the pulp", "filename": "filling_img85_tooth_01031.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Proximal caries approaching pulp chamber", "filename": "filling_img85_tooth_01032.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Secondary caries under an existing restoration", "filename": "filling_img86_tooth_01033.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Secondary proximal cavity under existing restoration of the molar requiring a filling", "filename": "filling_img87_tooth_01034.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal and occlusal cavity on the molar requiring a restoration", "filename": "filling_img88_tooth_01035.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img89_tooth_01036.jpg"}
+{"tooth": "canine", "treatment": "rct", "diagnosis": "Deep proximal caries approaching pulp", "filename": "filling_img90_tooth_01037.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Secondary caries under an existing restoration", "filename": "filling_img91_tooth_01038.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Deep proximal caries away from the pulp", "filename": "filling_img92_tooth_01039.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Deep proximal caries away from the pulp", "filename": "filling_img92_tooth_01040.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal cavity close to pulp and extending into the root", "filename": "filling_img93_tooth_01041.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Small proximal caries caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img93_tooth_01042.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Deep proximal cavity on root canal treated premolar requiring restoration and crown to protect tooth structure", "filename": "filling_img94_tooth_01043.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from the pulp", "filename": "filling_img95_tooth_01044.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "attrition with severely worn down occlusal surface", "filename": "filling_img96_tooth_01045.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep proximal caries on third molar", "filename": "filling_img96_tooth_01046.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Proximal caries away from the pulp chamber", "filename": "filling_img96_tooth_01047.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Deep proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img97_tooth_01048.jpg"}
+{"tooth": "central_incisor", "treatment": "rct", "diagnosis": "Deep proximal cavity close to pulp on both sides of the tooth with significant loss of tooth structure", "filename": "filling_img98_tooth_01049.jpg"}
+{"tooth": "central_incisor", "treatment": "restoration", "diagnosis": "Deep proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img98_tooth_01050.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep proximal cavity involving pulp, caries is deep and is touching the pulp chamber", "filename": "filling_img99_tooth_01051.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Deep proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img99_tooth_01052.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "small proximal caries away from pulp, caries does not appear to be involving pulp and can be restored", "filename": "filling_img100_tooth_01053.jpg"}
+{"tooth": "first_premolar", "treatment": "restoration", "diagnosis": "Secondary caries under existing restoration", "filename": "filling_img100_tooth_01054.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Ongoing root canal treatment on tooth", "filename": "filling_img101_tooth_01055.jpg"}
+{"tooth": "first_molar", "treatment": "restoration", "diagnosis": "Deep proximal cavity close to pulp", "filename": "filling_img101_tooth_01056.jpg"}
+{"tooth": "first_molar", "treatment": "extraction", "diagnosis": "Retained deciduous tooth with resorbed roots", "filename": "extraction_img5_tooth_01057.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Impacted wisdom molar with potential for pericoronitis and complications", "filename": "extraction_img7_tooth_01058.jpg"}
+{"tooth": "third_molar", "treatment": "extraction", "diagnosis": "Deep caries on the third molar involving the pulp, necessitating extraction", "filename": "extraction_img16_tooth_01059.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving pulp, presence of pulp stone in the pulp chamber", "filename": "extraction_img21_tooth_01060.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep proximal caries involving pulp", "filename": "extraction_img21_tooth_01061.jpg"}
+{"tooth": "first_premolar", "treatment": "rct", "diagnosis": "Premolar pulp chamber very close to surface, requires endodontic treatment if tooth is symptomatic", "filename": "rct_img2_tooth_01062.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Secondary caries under existing restoration, caries very close to pulp", "filename": "rct_img22_tooth_01063.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Secondary caries under existing restoration, caries appears to be away from the pulp", "filename": "rct_img22_tooth_01064.jpg"}
+{"tooth": "second_molar", "treatment": "rct", "diagnosis": "Deep caries approaching pulp", "filename": "rct_img23_tooth_01065.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp with significant loss of tooth structure", "filename": "rct_img24_tooth_01066.jpg"}
+{"tooth": "second_premolar", "treatment": "rct", "diagnosis": "Deep caries involving pulp with significant loss of tooth structure", "filename": "rct_img24_tooth_01067.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep caries involving pulp with significant loss of tooth structure", "filename": "rct_img70_tooth_01068.jpg"}
+{"tooth": "second_premolar", "treatment": "restoration", "diagnosis": "Large cavity on molar with significant loss of tooth structure. Proximal cavity on premolar close to nerve, restoration can be attempted if asymptomatic, requiring an rct.", "filename": "rct_img70_tooth_01069.jpg"}
+{"tooth": "first_molar", "treatment": "rct", "diagnosis": "Deep cavity involving pulp", "filename": "filling_img33_tooth_01070.jpg"}
+{"tooth": "second_molar", "treatment": "restoration", "diagnosis": "Deep caries approaching pulp, caries is not involving the pulp chamber", "filename": "filling_img33_tooth_01071.jpg"}

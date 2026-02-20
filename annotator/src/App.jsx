@@ -191,7 +191,7 @@ function App() {
         }
         
         setHasChanges(false);
-        setZoomLevel(1.35);
+        setZoomLevel(1.08);
         setLoading(false);
       })
       .catch(err => {
