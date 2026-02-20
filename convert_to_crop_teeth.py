@@ -67,15 +67,6 @@ def crop_and_resize(image_path, bbox, output_path, target_size=448, expand_ratio
 
 
 def process_dataset(input_jsonl, output_dir, dataset_dir):
-    """
-    Process the dataset: crop images and create new metadata.
-    
-    Args:
-        input_jsonl: Path to input dataset.jsonl
-        output_dir: Path to output directory (individual/)
-        dataset_dir: Path to dataset directory containing images
-    """
-    # Create output directory
     os.makedirs(output_dir, exist_ok=True)
     
     output_jsonl = os.path.join(output_dir, 'dataset.jsonl')
@@ -125,8 +116,8 @@ def process_dataset(input_jsonl, output_dir, dataset_dir):
 
 if __name__ == '__main__':
     # Configuration
-    INPUT_JSONL = 'dataset/dataset.jsonl'
-    OUTPUT_DIR = 'individual'
-    DATASET_DIR = 'dataset'
+    INPUT_JSONL = 'dataset_all/dataset.jsonl'
+    OUTPUT_DIR = 'dataset_no_diagnosis'
+    DATASET_DIR = 'dataset_all'
     
     process_dataset(INPUT_JSONL, OUTPUT_DIR, DATASET_DIR)
