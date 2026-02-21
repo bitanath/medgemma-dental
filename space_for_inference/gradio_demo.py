@@ -234,7 +234,7 @@ def detect_teeth(image_path):
 
 def handle_click(image_path, detections, evt: gr.SelectData):
     if not detections or image_path is None:
-        return gr.update(visible=False, value=None), "No detections available. Please run detection first."
+        return gr.update(visible=False, value=None), "No detections available. Please run detection first.", False
 
     image = Image.open(image_path).convert("RGB")
     click_x, click_y = evt.index
@@ -247,19 +247,23 @@ def handle_click(image_path, detections, evt: gr.SelectData):
             break
 
     if selected is None:
-        return gr.update(visible=False, value=None), f"No tooth at click location ({click_x:.0f}, {click_y:.0f}). Click on a colored bounding box."
+        return gr.update(visible=False, value=None), f"No tooth at click location ({click_x:.0f}, {click_y:.0f}). Click on a colored bounding box.", False
 
     cropped = crop_bbox(image, selected["bbox"], expand_ratio=0.2)
     
     cropped = square_pad_and_resize(cropped, target_size=448)
 
     treatment_status = "treatment" if selected.get("needs_treatment", False) else "no treatment"
-    return gr.update(visible=True, value=cropped), f"Selected: {selected['label'].replace(' treatment', '')} (Index {selected['index'] + 1}, {treatment_status})\nCropped region ready for diagnosis."
+    needs_treatment = selected.get("needs_treatment", False)
+    return gr.update(visible=True, value=cropped), f"Selected: {selected['label'].replace(' treatment', '')} (Index {selected['index'] + 1}, {treatment_status})\nCropped region ready for diagnosis.", needs_treatment
 
 
-def diagnose_tooth(cropped_image):
+def diagnose_tooth(cropped_image, needs_treatment=False):
     if cropped_image is None:
         return "Please select a tooth first by clicking on a bounding box."
+    
+    if not needs_treatment:
+        return "Diagnosis not provided as no treatment diagnosed"
 
     prompt_text = "Analyze this dental radiograph and provide findings."
 
@@ -294,6 +298,15 @@ def create_interface():
         with gr.Row():
             with gr.Column(scale=1):
                 input_image = gr.Image(type="filepath", label="Upload Dental X-ray")
+                
+                gr.Examples(
+                    examples=[
+                        ["https://raw.githubusercontent.com/bitanath/medgemma-dental/main/example_xrays/extraction_img5.jpg"],
+                        ["https://raw.githubusercontent.com/bitanath/medgemma-dental/main/example_xrays/panoramic_img109.jpg"],
+                        ["https://raw.githubusercontent.com/bitanath/medgemma-dental/main/example_xrays/rct_img29.jpg"],
+                    ],
+                    inputs=[input_image],
+                )
 
                 detect_btn = gr.Button("🔍 Detect Teeth", variant="primary")
 
@@ -336,6 +349,7 @@ def create_interface():
                 )
 
         detections_state = gr.State([])
+        selected_treatment_state = gr.State(value=False)
 
         detect_btn.click(
             fn=detect_teeth,
@@ -346,12 +360,12 @@ def create_interface():
         annotated_image.select(
             fn=handle_click,
             inputs=[input_image, detections_state],
-            outputs=[cropped_image, status_text],
+            outputs=[cropped_image, status_text, selected_treatment_state],
         )
 
         diagnose_btn.click(
             fn=diagnose_tooth,
-            inputs=[cropped_image],
+            inputs=[cropped_image, selected_treatment_state],
             outputs=[diagnosis_result],
         )
 

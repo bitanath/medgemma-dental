@@ -25,7 +25,7 @@ If you use this code, please cite:
 @software{paligemma_dental_detection,
   title={Medgemma + PaliGemma + MedSigLip Dental Detection},
   author={Bitan Nath},
-  year={2025},
+  year={2026},
   url={https://github.com/bitanath/medgemma-dental}
 }
 ```
