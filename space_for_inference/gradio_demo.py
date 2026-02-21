@@ -10,7 +10,7 @@ from transformers import (
 
 torch.set_grad_enabled(False)
 
-DETECTION_MODEL_NAME = "justacoderwhocodes/paligemma-dental-finetune"
+DETECTION_MODEL_NAME = "justacoderwhocodes/paligemma-dental-bounding-boxes"
 DIAGNOSIS_MODEL_NAME = "justacoderwhocodes/medgemma-dental-diagnosis-finetune"
 PROCESSOR_NAME = "google/paligemma2-3b-pt-448"
 
@@ -25,27 +25,40 @@ COLORS = {
 detection_model = None
 detection_processor = None
 diagnosis_pipe = None
+DEVICE = None
+
+
+def get_device():
+    if torch.backends.mps.is_available():
+        return "mps"
+    elif torch.cuda.is_available():
+        return "cuda"
+    return "cpu"
 
 
 def load_models():
-    global detection_model, detection_processor, diagnosis_pipe
+    global detection_model, detection_processor, diagnosis_pipe, DEVICE
+
+    DEVICE = get_device()
+    print(f"Using device: {DEVICE}")
 
     print("Loading detection model (PaliGemma)...")
     detection_model = PaliGemmaForConditionalGeneration.from_pretrained(
-        DETECTION_MODEL_NAME, dtype=torch.bfloat16
+        DETECTION_MODEL_NAME, torch_dtype=torch.bfloat16
     )
-    detection_model = detection_model.to("cpu")
+    detection_model = detection_model.to(DEVICE)
     detection_model = detection_model.eval()
 
     detection_processor = PaliGemmaProcessor.from_pretrained(
-        PROCESSOR_NAME, dtype=torch.bfloat16
+        PROCESSOR_NAME
     )
 
     print("Loading diagnosis model (MedGemma)...")
     diagnosis_pipe = pipeline(
         "image-text-to-text",
         model=DIAGNOSIS_MODEL_NAME,
-        dtype=torch.bfloat16,
+        torch_dtype=torch.bfloat16,
+        device=DEVICE,
     )
     diagnosis_pipe.model.generation_config.do_sample = False
     diagnosis_pipe.model.generation_config.pad_token_id = (
@@ -117,13 +130,14 @@ def crop_bbox(image, bbox, expand_ratio=0.2):
 
 def detect_teeth(image_path):
     if image_path is None:
-        return None, [], "Please upload an image first."
+        return gr.update(visible=False, value=None), [], "Please upload an image first."
 
     image = Image.open(image_path).convert("RGB")
 
     prompt = "<image><bos>detect canine; detect incisor; detect molar; detect premolar;"
 
     inputs = detection_processor(images=image, text=prompt, return_tensors="pt")
+    inputs = {k: v.to(DEVICE) for k, v in inputs.items()}
 
     with torch.no_grad():
         output = detection_model.generate(**inputs, max_new_tokens=512)
@@ -133,7 +147,7 @@ def detect_teeth(image_path):
     detections = parse_bboxes(result, image.width, image.height)
 
     if not detections:
-        return image, [], "No teeth detected in the image."
+        return gr.update(visible=False, value=None), [], "No teeth detected in the image."
 
     annotated_image = draw_boxes(image, detections)
 
@@ -141,12 +155,12 @@ def detect_teeth(image_path):
         [f"[{d['index']}] {d['label']} at ({d['bbox'][0]:.0f}, {d['bbox'][1]:.0f}, {d['bbox'][2]:.0f}, {d['bbox'][3]:.0f})" for d in detections]
     )
 
-    return annotated_image, detections, f"Detected {len(detections)} teeth:\n{detection_info}\n\nClick on a tooth to diagnose it."
+    return gr.update(visible=True, value=annotated_image), detections, f"Detected {len(detections)} teeth:\n{detection_info}\n\nClick on a tooth to diagnose it."
 
 
 def handle_click(image_path, detections, evt: gr.SelectData):
     if not detections or image_path is None:
-        return None, "No detections available. Please run detection first."
+        return gr.update(visible=False, value=None), "No detections available. Please run detection first."
 
     image = Image.open(image_path).convert("RGB")
     click_x, click_y = evt.index
@@ -159,11 +173,11 @@ def handle_click(image_path, detections, evt: gr.SelectData):
             break
 
     if selected is None:
-        return None, f"No tooth at click location ({click_x:.0f}, {click_y:.0f}). Click on a colored bounding box."
+        return gr.update(visible=False, value=None), f"No tooth at click location ({click_x:.0f}, {click_y:.0f}). Click on a colored bounding box."
 
     cropped = crop_bbox(image, selected["bbox"])
 
-    return cropped, f"Selected: {selected['label']} (Index {selected['index']})\nCropped region ready for diagnosis."
+    return gr.update(visible=True, value=cropped), f"Selected: {selected['label']} (Index {selected['index']})\nCropped region ready for diagnosis."
 
 
 def diagnose_tooth(cropped_image):
@@ -195,7 +209,7 @@ def diagnose_tooth(cropped_image):
 
 def create_interface():
     with gr.Blocks(title="Dental Analysis Demo") as demo:
-        gr.Markdown("# 🦷 Dental Detection & Diagnosis Demo")
+        gr.Markdown("# 🦷 Medgemma and MedSiglip based AI Dental Diagnosis ✨")
         gr.Markdown(
             "Upload a dental X-ray image → Detect teeth → Click on a tooth to diagnose"
         )
@@ -212,10 +226,14 @@ def create_interface():
 
             with gr.Column(scale=1):
                 annotated_image = gr.Image(
-                    type="filepath", label="Detected Teeth (Click to select)", interactive=True
+                    type="filepath", label="Detected Teeth (Click to select)", 
+                    visible=False, interactive=False
                 )
 
-                cropped_image = gr.Image(type="pil", label="Selected Tooth (Cropped)")
+                cropped_image = gr.Image(
+                    type="pil", label="Selected Tooth (Cropped)", 
+                    visible=False, interactive=False
+                )
 
                 diagnose_btn = gr.Button("📋 Diagnose", variant="secondary")
 
