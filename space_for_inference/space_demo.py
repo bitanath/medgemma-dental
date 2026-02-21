@@ -1,7 +1,9 @@
 import re
+import os
 import torch
 import gradio as gr
-from PIL import Image, ImageDraw, ImageOps
+import spaces
+from PIL import Image, ImageDraw
 from transformers import (
     PaliGemmaForConditionalGeneration,
     PaliGemmaProcessor,
@@ -30,7 +32,7 @@ detection_processor = None
 diagnosis_pipe = None
 treatment_model = None
 treatment_processor = None
-DEVICE = None
+DEVICE = "cpu"
 
 
 def get_device():
@@ -44,18 +46,19 @@ def get_device():
 def load_models():
     global detection_model, detection_processor, diagnosis_pipe, treatment_model, treatment_processor, DEVICE
 
+    hf_token = os.environ.get("HF_TOKEN")
     DEVICE = get_device()
     print(f"Using device: {DEVICE}")
 
     print("Loading detection model (PaliGemma)...")
     detection_model = PaliGemmaForConditionalGeneration.from_pretrained(
-        DETECTION_MODEL_NAME, dtype=torch.bfloat16
+        DETECTION_MODEL_NAME, dtype=torch.bfloat16, token=hf_token
     )
     detection_model = detection_model.to(DEVICE)
     detection_model = detection_model.eval()
 
     detection_processor = PaliGemmaProcessor.from_pretrained(
-        PROCESSOR_NAME
+        PROCESSOR_NAME, token=hf_token
     )
 
     print("Loading diagnosis model (MedGemma)...")
@@ -64,6 +67,7 @@ def load_models():
         model=DIAGNOSIS_MODEL_NAME,
         dtype=torch.bfloat16,
         device=DEVICE,
+        token=hf_token,
     )
     diagnosis_pipe.model.generation_config.do_sample = False
     diagnosis_pipe.model.generation_config.pad_token_id = (
@@ -72,10 +76,11 @@ def load_models():
     diagnosis_pipe.processor.tokenizer.padding_side = "left"
 
     print("Loading treatment classifier...")
-    treatment_processor = AutoImageProcessor.from_pretrained(TREATMENT_MODEL_NAME)
+    treatment_processor = AutoImageProcessor.from_pretrained(TREATMENT_MODEL_NAME, token=hf_token)
     treatment_model = AutoModelForImageClassification.from_pretrained(
         TREATMENT_MODEL_NAME,
         ignore_mismatched_sizes=True,
+        token=hf_token,
     )
     treatment_model = treatment_model.to(DEVICE)
     treatment_model = treatment_model.eval()
@@ -117,10 +122,8 @@ def draw_boxes(image, detections):
         
         is_treatment = det.get("needs_treatment", False)
         
-        # Get tooth-type (remove " treatment" if present)
         tooth_type = label.lower().replace(" treatment", "")
         
-        # If treatment needed: thick red box. Otherwise: tooth-type color
         if is_treatment:
             color = "red"
             width = 4
@@ -128,7 +131,6 @@ def draw_boxes(image, detections):
             color = COLORS.get(tooth_type, "grey")
             width = 3
         
-        # Draw single bounding box with appropriate color and width
         draw.rectangle([x1, y1, x2, y2], outline=color, width=width)
         draw.text((x1, y1 - 12), f"{det['index'] + 1}: {tooth_type}", fill=color)
 
@@ -171,6 +173,7 @@ def square_pad_and_resize(image, target_size):
     return new_image
 
 
+@spaces.GPU(duration=55)
 def classify_treatment(image, bbox):
     cropped = crop_bbox(image, bbox, expand_ratio=0.2)
     cropped = square_pad_and_resize(cropped, target_size=448)
@@ -187,6 +190,7 @@ def classify_treatment(image, bbox):
     return label
 
 
+@spaces.GPU(duration=55)
 def detect_teeth(image_path):
     if image_path is None:
         return gr.update(visible=False, value=None), [], "Please upload an image first."
@@ -219,12 +223,10 @@ def detect_teeth(image_path):
         else:
             det["needs_treatment"] = False
         
-        # Update status with progress (using intermediate state would require async, so update final message)
         progress_msg = f"Processing classification: {i+1}/{total} teeth..."
 
     annotated_image = draw_boxes(image, detections)
 
-    # Show tooth-type with treatment status for each tooth
     detection_info = "\n".join(
         [f"[{d['index'] + 1}] {d['label'].replace(' treatment', '')} ({'treatment' if d['needs_treatment'] else 'no treatment'})" for d in detections]
     )
@@ -260,6 +262,7 @@ def handle_click(image_path, detections, evt: gr.SelectData):
     return gr.update(visible=True, value=cropped), f"Selected: {selected['label'].replace(' treatment', '')} (Index {selected['index'] + 1}, {treatment_status})\nCropped region ready for diagnosis.", needs_treatment
 
 
+@spaces.GPU(duration=55)
 def diagnose_tooth(cropped_image, needs_treatment=False):
     if cropped_image is None:
         return "Please select a tooth first by clicking on a bounding box."
@@ -295,6 +298,9 @@ def create_interface():
         gr.Markdown("# 🦷 Medgemma and MedSiglip based AI Dental Diagnosis ✨")
         gr.Markdown(
             "Upload a dental X-ray image (OPG or IOPAR) → Detect teeth → Click on a tooth to diagnose"
+        )
+        gr.Markdown(
+            "Note this space runs on `cpu` and might be slow. Appreciate your patience."
         )
 
         with gr.Row():
