@@ -320,6 +320,7 @@ def create_interface():
                         ["https://raw.githubusercontent.com/bitanath/medgemma-dental/main/example_xrays/extraction_img5.jpg"],
                         ["https://raw.githubusercontent.com/bitanath/medgemma-dental/main/example_xrays/panoramic_img109.jpg"],
                         ["https://raw.githubusercontent.com/bitanath/medgemma-dental/main/example_xrays/rct_img29.jpg"],
+                        ["https://raw.githubusercontent.com/bitanath/medgemma-dental/main/example_xrays/personal.jpg"],
                     ],
                     inputs=[input_image],
                 )
