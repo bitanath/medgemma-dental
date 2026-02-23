@@ -149,12 +149,23 @@ def crop_bbox(image, bbox, expand_ratio=0.2):
     y1 = int(y1 - expand_ratio * bbox_height)
     y2 = int(y2 + expand_ratio * bbox_height)
 
-    x1 = max(0, min(x1, width))
-    y1 = max(0, min(y1, height))
-    x2 = max(0, min(x2, width))
-    y2 = max(0, min(y2, height))
-
-    return image.crop((x1, y1, x2, y2))
+    crop_width = x2 - x1
+    crop_height = y2 - y1
+    canvas = Image.new("RGB", (crop_width, crop_height), (0, 0, 0))
+    
+    paste_x = max(0, -x1)
+    paste_y = max(0, -y1)
+    
+    img_x1 = max(0, x1)
+    img_y1 = max(0, y1)
+    img_x2 = min(width, x2)
+    img_y2 = min(height, y2)
+    
+    if img_x2 > img_x1 and img_y2 > img_y1:
+        crop_region = image.crop((img_x1, img_y1, img_x2, img_y2))
+        canvas.paste(crop_region, (paste_x, paste_y))
+    
+    return canvas
 
 
 def square_pad_and_resize(image, target_size):
@@ -168,7 +179,7 @@ def square_pad_and_resize(image, target_size):
     paste_y = (max_dim - height) // 2
     new_image.paste(image, (paste_x, paste_y))
     
-    new_image = new_image.resize((target_size, target_size), Image.LANCZOS)
+    new_image = new_image.resize((target_size, target_size), Image.Resampling.LANCZOS)
     
     return new_image
 
@@ -193,7 +204,7 @@ def classify_treatment(image, bbox):
 @spaces.GPU(duration=55)
 def detect_teeth(image_path):
     if image_path is None:
-        return gr.update(visible=False, value=None), [], "Please upload an image first."
+        return gr.update(visible=False, value=None), [], "Please upload an image first.", None
 
     image = Image.open(image_path).convert("RGB")
     image = square_pad_and_resize(image, target_size=1024)
@@ -211,7 +222,7 @@ def detect_teeth(image_path):
     detections = parse_bboxes(result, image.width, image.height)
 
     if not detections:
-        return gr.update(visible=False, value=None), [], "No teeth detected in the image."
+        return gr.update(visible=False, value=None), [], "No teeth detected in the image.", None
 
     treatment_count = 0
     total = len(detections)
@@ -233,14 +244,14 @@ def detect_teeth(image_path):
 
     treatment_msg = f"\n{treatment_count} tooth/teeth require treatment." if treatment_count > 0 else ""
 
-    return gr.update(visible=True, value=annotated_image), detections, f"Detected {len(detections)} teeth. Classification complete.\n\n{detection_info}{treatment_msg}\n\nClick on a tooth to diagnose it."
+    return gr.update(visible=True, value=annotated_image), detections, f"Detected {len(detections)} teeth. Classification complete.\n\n{detection_info}{treatment_msg}\n\nClick on a tooth to diagnose it.", image
 
 
-def handle_click(image_path, detections, evt: gr.SelectData):
-    if not detections or image_path is None:
+def handle_click(processed_image, detections, evt: gr.SelectData):
+    if not detections or processed_image is None:
         return gr.update(visible=False, value=None), "No detections available. Please run detection first.", False
 
-    image = Image.open(image_path).convert("RGB")
+    image = processed_image
     click_x, click_y = evt.index
 
     selected = None
@@ -302,6 +313,9 @@ def create_interface():
         gr.Markdown(
             "Note this space runs on `cpu` and might be slow. Appreciate your patience."
         )
+        gr.Markdown(
+            "**Disclaimer:** This analysis is based solely on the provided image and should not be considered a substitute for a professional dental examination and diagnosis. A qualified dentist or dental professional is needed for a comprehensive assessment."
+        )
 
         with gr.Row():
             with gr.Column(scale=1):
@@ -357,17 +371,18 @@ def create_interface():
                 )
 
         detections_state = gr.State([])
+        processed_image_state = gr.State(value=None)
         selected_treatment_state = gr.State(value=False)
 
         detect_btn.click(
             fn=detect_teeth,
             inputs=[input_image],
-            outputs=[annotated_image, detections_state, status_text],
+            outputs=[annotated_image, detections_state, status_text, processed_image_state],
         )
 
         annotated_image.select(
             fn=handle_click,
-            inputs=[input_image, detections_state],
+            inputs=[processed_image_state, detections_state],
             outputs=[cropped_image, status_text, selected_treatment_state],
         )
 

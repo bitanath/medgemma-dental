@@ -10,3 +10,5 @@ Icon[]
 *.pdf
 *.glb
 *.safetensors
+
+items_for_presentation/

@@ -22,7 +22,7 @@ This project fine-tunes PaliGemma-3B-PT-448 with a MedSigLip-448 vision encoder 
 If you use this code, please cite:
 
 ```bibtex
-@software{paligemma_dental_detection,
+@software{medgemma_dental_diagnosis,
   title={Medgemma + PaliGemma + MedSigLip Dental Detection},
   author={Bitan Nath},
   year={2026},

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Deploy the Dental Diagnosis Demo to HuggingFace Spaces with ZeroGPU.
+Deploy the Simple Dental Diagnosis Demo to HuggingFace Spaces with ZeroGPU.
 
 Usage:
-    python deploy_space.py
+    python space_original_deploy.py
 
 Requirements:
     - HF_TOKEN environment variable must be set with a valid HuggingFace token
@@ -17,19 +17,17 @@ from huggingface_hub import HfApi, SpaceHardware, create_repo
 
 
 def main():
-    # Get HF token from environment
     hf_token = os.environ.get("HF_TOKEN")
     if not hf_token:
         print("Error: HF_TOKEN environment variable is not set.")
         print("Please set it with: export HF_TOKEN=your_token_here")
         sys.exit(1)
 
-    # Space configuration
-    SPACE_NAME = "dental-diagnosis-demo"
+    SPACE_NAME = "dental-diagnosis-original"
     REPO_ID = f"justacoderwhocodes/{SPACE_NAME}"
-    SPACE_TITLE = "Dental Diagnosis Demo"
+    SPACE_TITLE = "Dental Diagnosis Original"
     SPACE_README = """---
-title: Dental Diagnosis Demo
+title: Dental Diagnosis Original
 emoji: 🦷
 colorFrom: blue
 colorTo: green
@@ -40,28 +38,23 @@ pinned: false
 python_version: "3.12"
 ---
 
-# Dental Diagnosis Demo
+# Dental Diagnosis Original
 
-AI-powered dental X-ray analysis using MedGemma and PaliGemma.
+Simple AI-powered dental X-ray analysis using Google MedGemma.
 
 ## Features
-- Tooth detection with bounding boxes
-- Treatment classification
-- AI-powered diagnosis for teeth requiring treatment
+- Direct image-to-diagnosis analysis
+- No intermediate detection or cropping steps
 
-## Models Used
-- PaliGemma: Tooth detection
-- MedGemma: Dental diagnosis
-- ConvNeXt V2: Treatment classification
+## Model Used
+- google/medgemma-1.5-4b-it
 """
 
     print(f"Deploying Space: {REPO_ID}")
     print("=" * 50)
 
-    # Initialize HF API
     api = HfApi(token=hf_token)
 
-    # Create the Space repository
     print("\n1. Creating Space repository...")
     try:
         create_repo(
@@ -69,7 +62,7 @@ AI-powered dental X-ray analysis using MedGemma and PaliGemma.
             repo_type="space",
             token=hf_token,
             space_sdk="gradio",
-            private=False,  # Public Space
+            private=False,
             exist_ok=True,
         )
         print(f"   ✓ Space repository created: https://huggingface.co/spaces/{REPO_ID}")
@@ -77,17 +70,15 @@ AI-powered dental X-ray analysis using MedGemma and PaliGemma.
         print(f"   ✗ Error creating repository: {e}")
         sys.exit(1)
 
-    # Read the app.py content
-    print("\n2. Reading app.py content...")
+    print("\n2. Reading space_original.py content...")
     try:
-        with open("space_demo.py", "r") as f:
+        with open("space_original.py", "r") as f:
             app_content = f.read()
-        print(f"   ✓ Read {len(app_content)} characters from space_demo.py")
+        print(f"   ✓ Read {len(app_content)} characters from space_original.py")
     except Exception as e:
         print(f"   ✗ Error reading file: {e}")
         sys.exit(1)
 
-    # Read requirements.txt
     print("\n3. Reading requirements.txt...")
     try:
         with open("requirements.txt", "r") as f:
@@ -97,10 +88,8 @@ AI-powered dental X-ray analysis using MedGemma and PaliGemma.
         print(f"   ✗ Error reading file: {e}")
         sys.exit(1)
 
-    # Upload files to the Space
     print("\n4. Uploading files to Space...")
-    
-    # Upload app.py as app.py
+
     try:
         api.upload_file(
             path_or_fileobj=app_content.encode(),
@@ -114,7 +103,6 @@ AI-powered dental X-ray analysis using MedGemma and PaliGemma.
         print(f"   ✗ Error uploading app.py: {e}")
         sys.exit(1)
 
-    # Upload requirements.txt
     try:
         api.upload_file(
             path_or_fileobj=requirements_content.encode(),
@@ -128,7 +116,6 @@ AI-powered dental X-ray analysis using MedGemma and PaliGemma.
         print(f"   ✗ Error uploading requirements.txt: {e}")
         sys.exit(1)
 
-    # Upload README.md
     try:
         api.upload_file(
             path_or_fileobj=SPACE_README.encode(),
@@ -142,7 +129,6 @@ AI-powered dental X-ray analysis using MedGemma and PaliGemma.
         print(f"   ✗ Error uploading README.md: {e}")
         sys.exit(1)
 
-    # Request ZeroGPU hardware
     print("\n5. Requesting ZeroGPU hardware...")
     try:
         api.request_space_hardware(
@@ -159,7 +145,6 @@ AI-powered dental X-ray analysis using MedGemma and PaliGemma.
     print(f"\nYour Space will be available at:")
     print(f"  https://huggingface.co/spaces/{REPO_ID}")
     print("\nNote: It may take a few minutes for the Space to build and start.")
-    print("ZeroGPU hardware will be requested. If you don't have PRO, you may need to set it manually.")
 
 
 if __name__ == "__main__":
