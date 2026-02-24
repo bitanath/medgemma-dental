@@ -1,14 +1,14 @@
 # Medgemma + PaliGemma + MedSigLip Dental Detection
 
-Fine-tune PaliGemma-448 with MedSigLip encoder for detecting and classifying teeth in dental panoramic X-rays.
+Fine-tune MedGemma-1.5-4B-IT as well as PaliGemma-448 with MedSigLip encoder for detecting and classifying teeth in dental panoramic X-rays to provide a diagnosis and treatment plan.
 
 ## 🎯 Project Overview
 
-This project fine-tunes PaliGemma-3B-PT-448 with a MedSigLip-448 vision encoder to detect and classify teeth in dental panoramic X-rays. The model is trained to:
+This project fine-tunes MedGemma-1.5-4B-IT as well as PaliGemma-3B-PT-448 with a MedSigLip-448 vision encoder to detect and classify teeth in dental panoramic X-rays and then provide and succinct and valid diagnosis as well as a treatment plan. The model is trained to:
 
 - **Detect** teeth locations using bounding boxes
 - **Classify** teeth into 8 fine-grained types or 4 grouped categories
-- **Output** Diagnosis with 
+- **Output** Diagnosis with treatment plan provided by MedGemma
 
 
 ## 📚 Finetuned from
