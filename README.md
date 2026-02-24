@@ -35,7 +35,7 @@ If you use this code, please cite:
 This project is for research purposes. Please respect the licenses of:
 - PaliGemma (Gemma license)
 - MedSigLip (Google Health AI license)
-- Any Dental Datasets used to train the model (TBD)
+- The code for this project is licensed under MIT License
 
 ---
 
